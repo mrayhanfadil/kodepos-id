@@ -16,3 +16,4 @@ kodepos_raw.jsonl
 Thumbs.dbkodepos_parsed.csv.bak
 kodepos.json.bak
 kodepos.db.bak
+*.pre_html
