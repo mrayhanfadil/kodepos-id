@@ -1,0 +1,16 @@
+# Build artefacts
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# Intermediate
+kodepos_raw.jsonl
+
+# OS
+Thumbs.db
