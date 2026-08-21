@@ -1,12 +1,40 @@
 # Kode Pos Indonesia (Indonesian Postal Codes + Kemendagri Region Codes)
 
-> **83,145 desa / kelurahan** across **38 provinsi** + **514 kabupaten/kota** + **7,257 kecamatan**, each linked to its 13-digit **kode wilayah Kemendagri** and **5-digit kode pos** — sourced from [nomor.net](https://www.nomor.net) (Kepmendagri RI No. 100.1.1-6117/2022 & Permendagri No. 58/2021).
+> **83,712 desa / kelurahan** across **38 provinsi** + **514 kabupaten/kota** + **7,277 kecamatan**, each linked to its 13-digit **kode wilayah Kemendagri** and **5-digit kode pos** — sourced from [nomor.net](https://www.nomor.net) (Kepmendagri RI No. 100.1.1-6117/2022 & Permendagri RI No. 58/2021).
 
 Last scraped: 2026-08-21 (Asia/Jakarta).
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Data source: nomor.net](https://img.shields.io/badge/source-nomor.net-blue)](https://www.nomor.net)
+[![Scrape date](https://img.shields.io/badge/scraped-2026--08--21-brightgreen)](#)
+[![Repo size](https://img.shields.io/github/repo-size/mrayhanfadil/kodepos-id)](https://github.com/mrayhanfadil/kodepos-id)
+[![Public repo](https://img.shields.io/badge/repo-public-lightgrey)](https://github.com/mrayhanfadil/kodepos-id)
+
+## ⚡ Why this dataset
+
+Other public datasets (e.g. `sumitroajiprabowo/kode-wilayah-id`) join by **district / city / province** — but many real-world use cases (validation forms, address lookup, e-commerce shipping, gov-tech, fintech onboarding) need **village-level** matching by **kode pos** + **kode wilayah Kemendagri**.
+
+This repo joins both into a single **83,712-row master** with no external dependency.
+
+```bash
+# Direct download (SQLite, fastest)
+curl -L -o kodepos.db https://raw.githubusercontent.com/mrayhanfadil/kodepos-id/main/kodepos.db
+
+# Or CSV (one-row-per-desa with decomposed Kemendagri codes)
+curl -L -o kodepos_parsed.csv https://raw.githubusercontent.com/mrayhanfadil/kodepos-id/main/kodepos_parsed.csv
+```
+
+```sql
+-- Sample query: all kelurahan in DKI Jakarta
+SELECT kode_pos, desa, kecamatan, kabupaten
+FROM wilayah
+WHERE prov_code = '31' AND is_kelurahan = 1
+ORDER BY kabupaten, kecamatan, desa;
+```
+
 ---
 
-## Files
+## 📂 Files
 
 | File | Size | Rows | Format | Purpose |
 |---|---|---|---|---|
