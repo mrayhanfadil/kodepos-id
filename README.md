@@ -10,15 +10,25 @@ Last scraped: 2026-08-21 (Asia/Jakarta).
 
 | File | Size | Rows | Format | Purpose |
 |---|---|---|---|---|
-| **`kodepos.db`** | 23 MB | 83,145 | SQLite 3 | Fast queries with indexes on kode_wilayah, kode_pos, kecamatan, kabupaten, provinsi, and `(prov_code, kab_code, kec_code)` |
-| `kodepos_parsed.csv` | 9.3 MB | 83,146 | CSV | Flat data with decomposed Kemendagri fields (no SQLite needed) |
-| `kodepos_parsed.json` | 33 MB | 83,145 | JSON array | Same as above, JSON |
+| **`kodepos.db`** | 23 MB | 83,712 | SQLite 3 | Fast queries with indexes on kode_wilayah, kode_pos, kecamatan, kabupaten, provinsi, and `(prov_code, kab_code, kec_code)` |
+| `kodepos_parsed.csv` | 9.3 MB | 83,713 | CSV | Flat data with decomposed Kemendagri fields (no SQLite needed) |
+| `kodepos_parsed.json` | 33 MB | 83,712 | JSON array | Same as above, JSON |
 | `kodepos.csv` | 7.0 MB | 83,146 | CSV | Original scrape output (raw columns from nomor.net) |
 | `kodepos.json` | 20 MB | 83,145 | JSON array | Same as `kodepos.csv` |
 | `kodepos_raw.jsonl` | 17 MB | 83,145 | JSONL | Intermediate scrape log (resumeable) |
-| `scrape.py` | 14 KB | — | Python | Concurrent scrape script (6 threads, resumeable) |
+| `wilayah_provinsi.csv` | 3 KB | 38 | CSV | 38 provinsi with kab/kota/kec/desa counts + Kemendagri prov_code |
+| `wilayah_kota.csv` | 39 KB | 514 | CSV | All kota/kabupaten with Kemendagri 4-digit code |
+| `wilayah_kecamatan.csv` | 497 KB | 7,277 | CSV | All kecamatan/distrik with Kemendagri 6-digit code |
+| `wilayah_desa_papua.jsonl` | 18 MB | 75,865 | JSONL | Per-provinsi desa scrape (used to backfill Papua updates) |
+| `scrape.py` | 14 KB | — | Python | Concurrent desa scrape script (6 threads, resumeable) |
+| `scrape_hierarchy.py` | 16 KB | — | Python | Scrape provinsi/kota/kecamatan hierarchy |
+| `scrape_desa_papua.py` | 7.7 KB | — | Python | Per-provinsi desa scrape |
 | `build_sqlite.py` | 4.7 KB | — | Python | Build SQLite from JSON |
 | `build_parsed.py` | 2.3 KB | — | Python | Build parsed CSV/JSON from JSON |
+| `merge_papua.py` | 8.5 KB | — | Python | Merge per-provinsi desa scrape into master |
+| `diff_hierarchy.py` | 9.8 KB | — | Python | Diff master vs hierarchy scrape |
+| `diff_kode_wilayah_id.py` | 9.7 KB | — | Python | Diff master vs sumitroajiprabowo/kode-wilayah-id |
+| `fix_broken_csv.py` | 6.7 KB | — | Python | CSV repair utility for upstream-truncated exports |
 
 Pick the format that fits your stack:
 
@@ -142,9 +152,27 @@ python3 scrape.py --workers 6
 # Range (e.g., refresh last 20 pages)
 python3 scrape.py --start 399 --end 418 --workers 6
 
-# Then rebuild outputs
+# Then rebuild outputs (use `--workers 6` for concurrent fetch)
 python3 build_parsed.py
 python3 build_sqlite.py
+```
+
+### Per-provinsi desa scrape (for Papua updates)
+
+When nomor.net adds new villages (especially in the 6 Papua regions), use the per-provinsi filter to backfill them:
+
+```bash
+python3 scrape_desa_papua.py    # 38 provs × ~13 pages, ~5-10 min
+python3 merge_papua.py         # dedupe + update master CSV/JSON/SQLite
+```
+
+### Hierarchy scrape (provinsi / kota / kecamatan)
+
+For the parent tables (Provinsi → Kota → Kecamatan hierarchy):
+
+```bash
+python3 scrape_hierarchy.py
+python3 diff_hierarchy.py       # compare against master
 ```
 
 ### How pagination works
@@ -177,23 +205,23 @@ If you find a discrepancy with the official Permendagri, please open an issue wi
 
 | Metric | Value |
 |---|---|
-| Total rows | **83,145** |
-| Unique `kode_wilayah` | 83,145 (100%) |
-| Unique `kode_pos` | 10,636 |
+| Total rows | **83,712** |
+| Unique `kode_wilayah` | 83,712 (100%) |
+| Unique `kode_pos` | 10,668 |
 | Provinsi | 38 |
 | Kabupaten / Kota | 514 |
-| Kecamatan / Distrik | 7,257 |
-| Kelurahan (urban) | 8,470 |
-| Desa (rural) | 74,675 |
+| Kecamatan / Distrik | 7,277 |
+| Kelurahan (urban) | 8,513 |
+| Desa (rural) | 75,199 |
 
 Top 5 provinsi by desa count:
-1. Jawa Tengah — 8,520
-2. Jawa Timur — 8,458
-3. Aceh (NAD) — 6,468
-4. Sumatera Utara — 6,081
-5. Jawa Barat — 5,934
+1. Jawa Tengah — 8,562
+2. Jawa Timur — 8,494
+3. Aceh (NAD) — 6,498
+4. Sumatera Utara — 6,109
+5. Jawa Barat — 5,956
 
-(`nomor.net` advertises 83,763 desa/kelurahan in its page header; we scraped 83,145. The 618-row gap is because some rows on nomor.net appear in multiple navigation lists — by deduplicating on `kode_wilayah` we get the canonical count.)
+(`nomor.net` advertises 83,763 desa/kelurahan in its page header; we scrape 83,712 (≈99.94% of site's count). The 51-row gap is mostly a small number of villages the site's nav lists but doesn't carry in its detail table; covered by the per-provinsi scrape with 567 additional rows backfilled.)
 
 ---
 

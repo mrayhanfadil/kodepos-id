@@ -13,4 +13,6 @@ __pycache__/
 kodepos_raw.jsonl
 
 # OS
-Thumbs.db
+Thumbs.dbkodepos_parsed.csv.bak
+kodepos.json.bak
+kodepos.db.bak
