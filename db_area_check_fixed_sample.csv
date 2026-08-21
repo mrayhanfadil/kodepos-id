@@ -1,0 +1,567 @@
+no,kode_pos,kode_wilayah,prov_code,kab_code,kec_code,desa_code,full_code,is_kelurahan,is_desa,desa,kecamatan,dt2,kabupaten,provinsi,source_page
+1106,86373,53.08.08.2024,53,08,08,2024,5308082024,0,1,Lise Pu'u,Wolowaru,Kabupaten,Ende,Nusa Tenggara Timur (NTT),5
+1116,86373,53.08.08.2023,53,08,08,2023,5308082023,0,1,Tana Lo'o,Wolowaru,Kabupaten,Ende,Nusa Tenggara Timur (NTT),5
+2768,91912,73.73.02.1009,73,73,02,1009,7373021009,1,0,Pattene (Patte'ne),Wara Utara,Kota,Palopo,Sulawesi Selatan,13
+3140,91953,73.17.16.2006,73,17,16,2006,7317162006,0,1,Buntu Awo' (Buntu Awo),Walenrang Utara,Kabupaten,Luwu,Sulawesi Selatan,15
+3847,22861,12.04.27.2011,12,04,27,2011,1204272011,0,1,Sifaro'asi Ulu Gawo (Sifaoroasi Ulugawo),Ulugawo,Kabupaten,Nias,Sumatera Utara,19
+3848,22861,12.04.27.2014,12,04,27,2014,1204272014,0,1,Sisarahili Soroma'asi,Ulugawo,Kabupaten,Nias,Sumatera Utara,19
+3956,22862,12.25.08.2001,12,25,08,2001,1225082001,0,1,Bukit Tinggi,Ulu Moro'o (Ulu Narwo),Kabupaten,Nias Barat,Sumatera Utara,19
+3957,22862,12.25.08.2005,12,25,08,2005,1225082005,0,1,Hilibadalu,Ulu Moro'o (Ulu Narwo),Kabupaten,Nias Barat,Sumatera Utara,19
+3958,22862,12.25.08.2004,12,25,08,2004,1225082004,0,1,Hilisangawola,Ulu Moro'o (Ulu Narwo),Kabupaten,Nias Barat,Sumatera Utara,19
+3959,22862,12.25.08.2002,12,25,08,2002,1225082002,0,1,Lawelu,Ulu Moro'o (Ulu Narwo),Kabupaten,Nias Barat,Sumatera Utara,19
+3960,22862,12.25.08.2003,12,25,08,2003,1225082003,0,1,Saloo,Ulu Moro'o (Ulu Narwo),Kabupaten,Nias Barat,Sumatera Utara,19
+3975,22877,12.14.34.2007,12,14,34,2007,1214342007,0,1,Hilialo'oa,Ulu Idanotae,Kabupaten,Nias Selatan,Sumatera Utara,19
+3691,22873,12.14.14.2003,12,14,14,2003,1214142003,0,1,Sifaoro'asi Mola (Sifaoroasi Mola),Umbunasi,Kabupaten,Nias Selatan,Sumatera Utara,18
+3788,22867,12.14.19.2009,12,14,19,2009,1214192009,0,1,Loloana'a,Ulunoyo,Kabupaten,Nias Selatan,Sumatera Utara,18
+4430,92313,73.04.08.2002,73,04,08,2002,7304082002,0,1,Bonto Mate'ne (Bontomatene),Turatea,Kabupaten,Jeneponto,Sulawesi Selatan,22
+4794,22852,12.24.03.2004,12,24,03,2004,1224032004,0,1,Alo'oa (Alooa),Tuhemberua,Kabupaten,Nias Utara,Sumatera Utara,23
+4798,22852,12.24.03.2003,12,24,03,2003,1224032003,0,1,La'aya (Laaya),Tuhemberua,Kabupaten,Nias Utara,Sumatera Utara,23
+5630,94478,72.08.05.2029,72,08,05,2029,7208052029,0,1,Ta'aniuge,Tomini,Kabupaten,Parigi Moutong,Sulawesi Tengah,28
+5684,92170,73.06.10.2002,73,06,10,2002,7306102002,0,1,Ta'binjai,Tombolopao (Tombolo Pao),Kabupaten,Gowa,Sulawesi Selatan,28
+5749,22865,12.14.12.2005,12,14,12,2005,1214122005,0,1,Hili'alawa (Hilialawa),Toma,Kabupaten,Nias Selatan,Sumatera Utara,28
+5908,94686,72.09.02.2016,72,09,02,2016,7209022016,0,1,Titiri'i,Togean,Kabupaten,Tojo Una Una,Sulawesi Tengah,29
+5412,91857,73.26.16.2001,73,26,16,2001,7326162001,0,1,Tondon Langi' (Tondon Langi),Tondon,Kabupaten,Toraja Utara,Sulawesi Selatan,27
+4842,22860,12.24.08.2007,12,24,08,2007,1224082007,0,1,Botona'ai,Tugala Oyo,Kabupaten,Nias Utara,Sumatera Utara,24
+4849,22860,12.24.08.2001,12,24,08,2001,1224082001,0,1,Te'olo,Tugala Oyo,Kabupaten,Nias Utara,Sumatera Utara,24
+6094,69371,35.28.01.2017,35,28,01,2017,3528012017,0,1,Taro'an,Tlanakan,Kabupaten,Pamekasan,Jawa Timur,30
+7874,72270,63.10.12.2007,63,10,12,2007,6310122007,0,1,Hati'if (Hati If),Teluk Kepayang,Kabupaten,Tanah Bumbu,Kalimantan Selatan,39
+7928,22865,12.14.06.2042,12,14,06,2042,1214062042,0,1,Hiliana'a,Teluk Dalam,Kabupaten,Nias Selatan,Sumatera Utara,39
+7930,22865,12.14.06.2043,12,14,06,2043,1214062043,0,1,Hiliganowo Salo'o,Teluk Dalam,Kabupaten,Nias Selatan,Sumatera Utara,39
+7933,22865,12.14.06.2025,12,14,06,2025,1214062025,0,1,Hilisao'otoniha,Teluk Dalam,Kabupaten,Nias Selatan,Sumatera Utara,39
+8508,71667,63.11.08.2004,63,11,08,2004,6311082004,0,1,Ju'uh (Ju Uh),Tebing Tinggi,Kabupaten,Balangan,Kalimantan Selatan,42
+8784,85771,53.04.02.2006,53,04,02,2006,5304022006,0,1,Fatuba'a,Tasifeto Timur,Kabupaten,Belu,Nusa Tenggara Timur (NTT),43
+6616,91833,73.26.09.2006,73,26,09,2006,7326092006,0,1,Benteng Ka'do To'rea,Tikala,Kabupaten,Toraja Utara,Sulawesi Selatan,33
+9153,91551,76.02.02.2010,76,02,02,2010,7602022010,0,1,Taan (Taang / Ta'an),Tapalang,Kabupaten,Mamuju,Sulawesi Barat,45
+11059,90221,73.71.10.1008,73,71,10,1008,7371101008,1,0,Pa'baeng-Baeng (Pa Baeng-Baeng),Tamalate,Kota,Makassar,Sulawesi Selatan,55
+11170,90211,73.71.07.1008,73,71,07,1008,7371071008,1,0,La'latang (La Latang),Tallo,Kota,Makassar,Sulawesi Selatan,55
+11790,91372,76.03.05.2013,76,03,05,2013,7603052013,0,1,Peu' (Peu),Tabulahan,Kabupaten,Mamasa,Sulawesi Barat,58
+11424,38385,17.09.02.2014,17,09,02,2014,1709022014,0,1,Jum'at (Jumat),Talang Empat,Kabupaten,Bengkulu Tengah,Bengkulu,57
+10621,95882,71.04.10.2004,71,04,10,2004,7104102004,0,1,Ammat,Tampan' Amma (Tampan Amma),Kabupaten,Kepulauan Talaud,Sulawesi Utara,53
+10622,95882,71.04.10.2009,71,04,10,2009,7104102009,0,1,Ammat Selatan,Tampan' Amma (Tampan Amma),Kabupaten,Kepulauan Talaud,Sulawesi Utara,53
+10623,95882,71.04.10.2005,71,04,10,2005,7104102005,0,1,Binalang,Tampan' Amma (Tampan Amma),Kabupaten,Kepulauan Talaud,Sulawesi Utara,53
+10624,95882,71.04.10.2010,71,04,10,2010,7104102010,0,1,Binalang Timur,Tampan' Amma (Tampan Amma),Kabupaten,Kepulauan Talaud,Sulawesi Utara,53
+10625,95882,71.04.10.2002,71,04,10,2002,7104102002,0,1,Dapalan,Tampan' Amma (Tampan Amma),Kabupaten,Kepulauan Talaud,Sulawesi Utara,53
+10626,95882,71.04.10.2007,71,04,10,2007,7104102007,0,1,Dapihe,Tampan' Amma (Tampan Amma),Kabupaten,Kepulauan Talaud,Sulawesi Utara,53
+10627,95882,71.04.10.2006,71,04,10,2006,7104102006,0,1,Ganalo,Tampan' Amma (Tampan Amma),Kabupaten,Kepulauan Talaud,Sulawesi Utara,53
+10628,95882,71.04.10.2003,71,04,10,2003,7104102003,0,1,Riung,Tampan' Amma (Tampan Amma),Kabupaten,Kepulauan Talaud,Sulawesi Utara,53
+10629,95882,71.04.10.2011,71,04,10,2011,7104102011,0,1,Riung Utara,Tampan' Amma (Tampan Amma),Kabupaten,Kepulauan Talaud,Sulawesi Utara,53
+10630,95882,71.04.10.2001,71,04,10,2001,7104102001,0,1,Tuabatu,Tampan' Amma (Tampan Amma),Kabupaten,Kepulauan Talaud,Sulawesi Utara,53
+10631,95882,71.04.10.2008,71,04,10,2008,7104102008,0,1,Tuabatu Barat,Tampan' Amma (Tampan Amma),Kabupaten,Kepulauan Talaud,Sulawesi Utara,53
+12319,22873,12.14.09.2003,12,14,09,2003,1214092003,0,1,Hiliana'a Susua (Hilianaa Susua),Susua,Kabupaten,Nias Selatan,Sumatera Utara,61
+12329,22873,12.14.09.2019,12,14,09,2019,1214092019,0,1,Orahili Bo'e (Orahili Boe),Susua,Kabupaten,Nias Selatan,Sumatera Utara,61
+13598,67263,35.13.02.2009,35,13,02,2009,3513022009,0,1,Remba'an (Rambaan),Sumber,Kabupaten,Probolinggo,Jawa Timur,67
+14477,23522,11.72.02.2007,11,72,02,2007,1172022007,0,1,Cot Ba'U,Sukajaya,Kota,Sabang,Aceh (NAD),72
+14769,79417,61.01.10.2002,61,01,10,2002,6101102002,0,1,Sungai Sapa' (Sungai Sapa),Subah,Kabupaten,Sambas,Kalimantan Barat,73
+15285,22871,12.04.29.2002,12,04,29,2002,1204292002,0,1,I'odano (Iodano),Somolo-Molo (Samolo),Kabupaten,Nias,Sumatera Utara,76
+15291,22871,12.04.29.2011,12,04,29,2011,1204292011,0,1,So'ewali,Somolo-Molo (Samolo),Kabupaten,Nias,Sumatera Utara,76
+15315,22874,12.14.26.2006,12,14,26,2006,1214262006,0,1,Sihare'o (Sihareo),Somambawa,Kabupaten,Nias Selatan,Sumatera Utara,76
+15486,22871,12.04.35.2007,12,04,35,2007,1204352007,0,1,Baruzo,Sogae'adu (Sogae Adu / Sogaeadu),Kabupaten,Nias,Sumatera Utara,77
+15487,22871,12.04.35.2002,12,04,35,2002,1204352002,0,1,Hilibadalu,Sogae'adu (Sogae Adu / Sogaeadu),Kabupaten,Nias,Sumatera Utara,77
+15488,22871,12.04.35.2004,12,04,35,2004,1204352004,0,1,Hilimbana,Sogae'adu (Sogae Adu / Sogaeadu),Kabupaten,Nias,Sumatera Utara,77
+15489,22871,12.04.35.2003,12,04,35,2003,1204352003,0,1,La'uri (Lauri),Sogae'adu (Sogae Adu / Sogaeadu),Kabupaten,Nias,Sumatera Utara,77
+15490,22871,12.04.35.2005,12,04,35,2005,1204352005,0,1,Saitagaramba (Saetagaramba),Sogae'adu (Sogae Adu / Sogaeadu),Kabupaten,Nias,Sumatera Utara,77
+15491,22871,12.04.35.2011,12,04,35,2011,1204352011,0,1,Sihare'o Sogae'adu (Sihareo Sogaeadu),Sogae'adu (Sogae Adu / Sogaeadu),Kabupaten,Nias,Sumatera Utara,77
+15492,22871,12.04.35.2009,12,04,35,2009,1204352009,0,1,Sisarahili Sogae'adu (Sisarahili Sogeadu),Sogae'adu (Sogae Adu / Sogaeadu),Kabupaten,Nias,Sumatera Utara,77
+15493,22871,12.04.35.2006,12,04,35,2006,1204352006,0,1,Sogae'adu (Sogaeadu),Sogae'adu (Sogae Adu / Sogaeadu),Kabupaten,Nias,Sumatera Utara,77
+15494,22871,12.04.35.2001,12,04,35,2001,1204352001,0,1,Tuhembuasi,Sogae'adu (Sogae Adu / Sogaeadu),Kabupaten,Nias,Sumatera Utara,77
+15495,22871,12.04.35.2008,12,04,35,2008,1204352008,0,1,Tulumbaho,Sogae'adu (Sogae Adu / Sogaeadu),Kabupaten,Nias,Sumatera Utara,77
+15496,22871,12.04.35.2010,12,04,35,2010,1204352010,0,1,We'a-we'a (Wea-Wea),Sogae'adu (Sogae Adu / Sogaeadu),Kabupaten,Nias,Sumatera Utara,77
+15759,22852,12.24.04.2005,12,24,04,2005,1224042005,0,1,Fulolo Salo'o (Fulolo Saloo),Sitolu Ori,Kabupaten,Nias Utara,Sumatera Utara,78
+15761,22852,12.24.04.2004,12,24,04,2004,1224042004,0,1,Hilisalo'o (Hilisaloo),Sitolu Ori,Kabupaten,Nias Utara,Sumatera Utara,78
+16176,92450,73.03.08.2004,73,03,08,2004,7303082004,0,1,Bonto Mate'ne,Sinoa,Kabupaten,Bantaeng,Sulawesi Selatan,80
+16478,94344,72.03.24.2005,72,03,24,2005,7203242005,0,1,Batusuya Go'o,Sindue Tombusabora,Kabupaten,Donggala,Sulawesi Tengah,82
+17135,91512,76.02.12.2009,76,02,12,2009,7602122009,0,1,Pati'di,Simboro (Simboro dan Kepulauan),Kabupaten,Mamuju,Sulawesi Barat,85
+17607,22874,12.14.25.2002,12,14,25,2002,1214252002,0,1,Hilidohona,Sidua'ori,Kabupaten,Nias Selatan,Sumatera Utara,88
+17608,22874,12.14.25.2003,12,14,25,2003,1214252003,0,1,Hililaora,Sidua'ori,Kabupaten,Nias Selatan,Sumatera Utara,88
+17609,22874,12.14.25.2006,12,14,25,2006,1214252006,0,1,Hilisao'oto,Sidua'ori,Kabupaten,Nias Selatan,Sumatera Utara,88
+17610,22874,12.14.25.2008,12,14,25,2008,1214252008,0,1,Hilizanuwo,Sidua'ori,Kabupaten,Nias Selatan,Sumatera Utara,88
+17611,22874,12.14.25.2009,12,14,25,2009,1214252009,0,1,Hoya,Sidua'ori,Kabupaten,Nias Selatan,Sumatera Utara,88
+17612,22874,12.14.25.2001,12,14,25,2001,1214252001,0,1,Mondrowe,Sidua'ori,Kabupaten,Nias Selatan,Sumatera Utara,88
+17613,22874,12.14.25.2010,12,14,25,2010,1214252010,0,1,Na'ai,Sidua'ori,Kabupaten,Nias Selatan,Sumatera Utara,88
+17614,22874,12.14.25.2011,12,14,25,2011,1214252011,0,1,Olanori,Sidua'ori,Kabupaten,Nias Selatan,Sumatera Utara,88
+17615,22874,12.14.25.2007,12,14,25,2007,1214252007,0,1,Taluzusua,Sidua'ori,Kabupaten,Nias Selatan,Sumatera Utara,88
+17616,22874,12.14.25.2004,12,14,25,2004,1214252004,0,1,Uluidanoduo,Sidua'ori,Kabupaten,Nias Selatan,Sumatera Utara,88
+17617,22874,12.14.25.2005,12,14,25,2005,1214252005,0,1,Umbu Sohahau (Umbu Sohahua),Sidua'ori,Kabupaten,Nias Selatan,Sumatera Utara,88
+19193,78771,61.06.10.2008,61,06,10,2008,6106102008,0,1,Tua' Abang (Tua Abang),Semitau,Kabupaten,Kapuas Hulu,Kalimantan Barat,95
+18434,91845,73.26.19.2001,73,26,19,2001,7326192001,0,1,Suloara',Sesean Suloara,Kabupaten,Toraja Utara,Sulawesi Selatan,92
+18437,91844,73.26.02.2008,73,26,02,2008,7326022008,0,1,Bori' Lombongan (Bori Lombongan),Sesean,Kabupaten,Toraja Utara,Sulawesi Selatan,92
+18438,91844,73.26.02.2007,73,26,02,2007,7326022007,0,1,Bori' Ranteletok,Sesean,Kabupaten,Toraja Utara,Sulawesi Selatan,92
+18440,91844,73.26.02.1005,73,26,02,1005,7326021005,1,0,Deri' (Deri),Sesean,Kabupaten,Toraja Utara,Sulawesi Selatan,92
+18441,91844,73.26.02.1004,73,26,02,1004,7326021004,1,0,Palawa' (Palawa),Sesean,Kabupaten,Toraja Utara,Sulawesi Selatan,92
+20384,77361,64.03.04.2001,64,03,04,2001,6403042001,0,1,Long La'ai (Long Laay / Laai),Segah,Kabupaten,Berau,Kalimantan Timur,101
+20679,22852,12.24.02.2001,12,24,02,2001,1224022001,0,1,Seriwa'u (Seriwau),Sawo,Kabupaten,Nias Utara,Sumatera Utara,103
+20784,23753,11.01.07.2015,11,01,07,2015,1101072015,0,1,Sawang Ba'u (Sawang Bau),Sawang,Kabupaten,Aceh Selatan,Aceh (NAD),103
+21134,69493,35.29.25.2006,35,29,25,2006,3529252006,0,1,Saseel (Sase'el),Sapeken,Kabupaten,Sumenep,Jawa Timur,105
+21145,84183,52.06.06.2008,52,06,06,2008,5206062008,0,1,Na'e,Sape,Kabupaten,Bima,Nusa Tenggara Barat (NTB),105
+21151,84183,52.06.06.2009,52,06,06,2009,5206062009,0,1,Rai O'i,Sape,Kabupaten,Bima,Nusa Tenggara Barat (NTB),105
+21284,91851,73.26.07.2002,73,26,07,2002,7326072002,0,1,Buntu La'bo',Sanggalangi,Kabupaten,Toraja Utara,Sulawesi Selatan,106
+21285,91851,73.26.07.2001,73,26,07,2001,7326072001,0,1,La'bo',Sanggalangi,Kabupaten,Toraja Utara,Sulawesi Selatan,106
+21287,91851,73.26.07.2004,73,26,07,2004,7326072004,0,1,Pata'padang (Pata' Padang),Sanggalangi,Kabupaten,Toraja Utara,Sulawesi Selatan,106
+21289,91851,73.26.07.2005,73,26,07,2005,7326072005,0,1,Tandung Labo' (Tandung La'bo'),Sanggalangi,Kabupaten,Toraja Utara,Sulawesi Selatan,106
+21298,91883,73.18.34.1006,73,18,34,1006,7318341006,1,0,Bebo' (Bebo),Sangalla Utara,Kabupaten,Tana Toraja,Sulawesi Selatan,106
+21301,91883,73.18.34.2002,73,18,34,2002,7318342002,0,1,Rantela'bi Kambisa (Ratele Bi Kambisa),Sangalla Utara,Kabupaten,Tana Toraja,Sulawesi Selatan,106
+21309,91881,73.18.13.2004,73,18,13,2004,7318132004,0,1,Bulian Massa'bu (Bulian Massabu),Sangalla (Sanggala),Kabupaten,Tana Toraja,Sulawesi Selatan,106
+22331,79467,61.01.09.2001,61,01,09,2001,6101092001,0,1,Kaliau' (Kaliau),Sajingan Besar,Kabupaten,Sambas,Kalimantan Barat,111
+21888,79280,61.07.02.2002,61,07,02,2002,6107022002,0,1,Sabau (Saba'u),Samalantan,Kabupaten,Bengkayang,Kalimantan Barat,109
+21967,91864,73.18.01.2014,73,18,01,2014,7318012014,0,1,Ra'bung,Saluputi (Saluputti),Kabupaten,Tana Toraja,Sulawesi Selatan,109
+21970,91864,73.18.01.2013,73,18,01,2013,7318012013,0,1,Sa'tandung,Saluputi (Saluputti),Kabupaten,Tana Toraja,Sulawesi Selatan,109
+22587,91843,73.26.06.2008,73,26,06,2008,7326062008,0,1,Sa'dan Andulan (Sa' Dan Andulan),Sa'dan,Kabupaten,Toraja Utara,Sulawesi Selatan,112
+22588,91843,73.26.06.2003,73,26,06,2003,7326062003,0,1,Sa'dan Balong Pasange',Sa'dan,Kabupaten,Toraja Utara,Sulawesi Selatan,112
+22589,91843,73.26.06.2010,73,26,06,2010,7326062010,0,1,Sa'dan Luku Lambe'na (Liku Lambe),Sa'dan,Kabupaten,Toraja Utara,Sulawesi Selatan,112
+22590,91843,73.26.06.1002,73,26,06,1002,7326061002,1,0,Sa'dan Malimbong (Sa' Dan Malimbong),Sa'dan,Kabupaten,Toraja Utara,Sulawesi Selatan,112
+22591,91843,73.26.06.1004,73,26,06,1004,7326061004,1,0,Sa'dan Matalo (Sa' Dan Matallo),Sa'dan,Kabupaten,Toraja Utara,Sulawesi Selatan,112
+22592,91843,73.26.06.2005,73,26,06,2005,7326062005,0,1,Sa'dan Pebulian (Sa' Dan Pebulian),Sa'dan,Kabupaten,Toraja Utara,Sulawesi Selatan,112
+22593,91843,73.26.06.2009,73,26,06,2009,7326062009,0,1,Sa'dan Pesondongan (Sa' Dan),Sa'dan,Kabupaten,Toraja Utara,Sulawesi Selatan,112
+22594,91843,73.26.06.2007,73,26,06,2007,7326062007,0,1,Sa'dan Tiroallo,Sa'dan,Kabupaten,Toraja Utara,Sulawesi Selatan,112
+22595,91843,73.26.06.2001,73,26,06,2001,7326062001,0,1,Sa'dan Ulusalu (Sa' Dan Ulusalu),Sa'dan,Kabupaten,Toraja Utara,Sulawesi Selatan,112
+22596,91843,73.26.06.2006,73,26,06,2006,7326062006,0,1,Sangkaropi' (Sa' Dan Sangkaropi),Sa'dan,Kabupaten,Toraja Utara,Sulawesi Selatan,112
+22936,85982,53.14.07.2004,53,14,07,2004,5314072004,0,1,Bo'a (Boa),Rote Barat,Kabupaten,Rote Ndao,Nusa Tenggara Timur (NTT),114
+23141,91849,73.26.04.2006,73,26,04,2006,7326042006,0,1,Lo'ko' Uru (Lo Ko Uru Tanete Batu),Rindingallo,Kabupaten,Toraja Utara,Sulawesi Selatan,115
+23142,91849,73.26.04.2005,73,26,04,2005,7326042005,0,1,Mai'ting (Maiting),Rindingallo,Kabupaten,Toraja Utara,Sulawesi Selatan,115
+23143,91849,73.26.04.1002,73,26,04,1002,7326041002,1,0,Pangala' (Pangala),Rindingallo,Kabupaten,Toraja Utara,Sulawesi Selatan,115
+23144,91849,73.26.04.1004,73,26,04,1004,7326041004,1,0,Pangala' Utara (Pangala Utara),Rindingallo,Kabupaten,Toraja Utara,Sulawesi Selatan,115
+23381,91860,73.18.20.2009,73,18,20,2009,7318202009,0,1,Batusura' (Batu Sura),Rembon,Kabupaten,Tana Toraja,Sulawesi Selatan,116
+23382,91860,73.18.20.2010,73,18,20,2010,7318202010,0,1,Bua ' Tarrung,Rembon,Kabupaten,Tana Toraja,Sulawesi Selatan,116
+23383,91860,73.18.20.2007,73,18,20,2007,7318202007,0,1,Buri',Rembon,Kabupaten,Tana Toraja,Sulawesi Selatan,116
+23391,91860,73.18.20.2011,73,18,20,2011,7318202011,0,1,To'pao (To' Pao),Rembon,Kabupaten,Tana Toraja,Sulawesi Selatan,116
+23780,84119,52.72.02.1019,52,72,02,1019,5272021019,1,0,Oi Fo'o,Rasanae Timur,Kota,Bima,Nusa Tenggara Barat (NTB),118
+23884,91835,73.26.01.1006,73,26,01,1006,7326011006,1,0,Singki' (Singki),Rantepao,Kabupaten,Toraja Utara,Sulawesi Selatan,119
+23895,91842,73.26.18.2004,73,26,18,2004,7326182004,0,1,Ma'kuan Pare,Rantebua,Kabupaten,Toraja Utara,Sulawesi Selatan,119
+24672,69485,35.29.22.2005,35,29,22,2005,3529222005,0,1,Alas Malang (Alasmalang),Ra'as (Raas),Kabupaten,Sumenep,Jawa Timur,123
+24673,69485,35.29.22.2007,35,29,22,2007,3529222007,0,1,Brakas,Ra'as (Raas),Kabupaten,Sumenep,Jawa Timur,123
+24674,69485,35.29.22.2009,35,29,22,2009,3529222009,0,1,Guwa Guwa,Ra'as (Raas),Kabupaten,Sumenep,Jawa Timur,123
+24675,69485,35.29.22.2002,35,29,22,2002,3529222002,0,1,Jungkat,Ra'as (Raas),Kabupaten,Sumenep,Jawa Timur,123
+24676,69485,35.29.22.2004,35,29,22,2004,3529222004,0,1,Karangnangka,Ra'as (Raas),Kabupaten,Sumenep,Jawa Timur,123
+24677,69485,35.29.22.2001,35,29,22,2001,3529222001,0,1,Ketupat,Ra'as (Raas),Kabupaten,Sumenep,Jawa Timur,123
+24678,69485,35.29.22.2003,35,29,22,2003,3529222003,0,1,Kropoh (Karopoh),Ra'as (Raas),Kabupaten,Sumenep,Jawa Timur,123
+24679,69485,35.29.22.2006,35,29,22,2006,3529222006,0,1,Poteran,Ra'as (Raas),Kabupaten,Sumenep,Jawa Timur,123
+24680,69485,35.29.22.2008,35,29,22,2008,3529222008,0,1,Tonduk,Ra'as (Raas),Kabupaten,Sumenep,Jawa Timur,123
+24709,78714,61.06.17.2024,61,06,17,2024,6106172024,0,1,Ingko' Tambe (Ingko Tambe),Putussibau Selatan,Kabupaten,Kapuas Hulu,Kalimantan Barat,123
+25534,22882,12.14.05.2003,12,14,05,2003,1214052003,0,1,Bawo'amahelato (Bawo Ama Helato),Pulau-Pulau Batu,Kabupaten,Nias Selatan,Sumatera Utara,127
+25535,22882,12.14.05.2004,12,14,05,2004,1214052004,0,1,Bawo'omasio (Bawo Omasio),Pulau-Pulau Batu,Kabupaten,Nias Selatan,Sumatera Utara,127
+26234,69363,35.28.05.2014,35,28,05,2014,3528052014,0,1,Billa'an,Proppo,Kabupaten,Pamekasan,Jawa Timur,131
+26237,69363,35.28.05.2005,35,28,05,2005,3528052005,0,1,Gro'om,Proppo,Kabupaten,Pamekasan,Jawa Timur,131
+26841,91989,73.17.21.2001,73,17,21,2001,7317212001,0,1,Jenne/Je'ne Maeja,Ponrang Selatan,Kabupaten,Luwu,Sulawesi Selatan,134
+26848,91989,73.17.21.2009,73,17,21,2009,7317212009,0,1,To'balo (To Balo),Ponrang Selatan,Kabupaten,Luwu,Sulawesi Selatan,134
+26849,91989,73.17.21.2010,73,17,21,2010,7317212010,0,1,To'bia,Ponrang Selatan,Kabupaten,Luwu,Sulawesi Selatan,134
+27059,92221,73.05.04.2009,73,05,04,2009,7305042009,0,1,Pa'rappunganta (Pa Rappunganta),Polongbangkeng Utara (Polombangkeng),Kabupaten,Takalar,Sulawesi Selatan,135
+27066,92221,73.05.11.2002,73,05,11,2002,7305112002,0,1,Kale Ko'mara,Polongbangkeng Timur,Kabupaten,Takalar,Sulawesi Selatan,135
+27068,92221,73.05.11.2001,73,05,11,2001,7305112001,0,1,Ko'mara (Ko Mara),Polongbangkeng Timur,Kabupaten,Takalar,Sulawesi Selatan,135
+27079,92252,73.05.03.1001,73,05,03,1001,7305031001,1,0,Pa'bundukang (Pa Bundukang),Polongbangkeng Selatan (Polombangkeng),Kabupaten,Takalar,Sulawesi Selatan,135
+27082,92252,73.05.03.2009,73,05,03,2009,7305032009,0,1,Su'rulangi (Surulangi),Polongbangkeng Selatan (Polombangkeng),Kabupaten,Takalar,Sulawesi Selatan,135
+27884,94345,72.03.21.2003,72,03,21,2003,7203212003,0,1,Dangara'a (Dangaraa),Pinembani (Panembani),Kabupaten,Donggala,Sulawesi Tengah,139
+28842,70674,63.03.09.2006,63,03,09,2006,6303092006,0,1,Ati'im (Ati Im),Pengaron (Pengarom),Kabupaten,Banjar,Kalimantan Selatan,144
+29857,92172,73.06.13.2008,73,06,13,2008,7306132008,0,1,Borongpala'la,Pattalasang (Pattallassang),Kabupaten,Gowa,Sulawesi Selatan,149
+29858,92172,73.06.13.2006,73,06,13,2006,7306132006,0,1,Je'nemadinging (Jenemadinging),Pattalasang (Pattallassang),Kabupaten,Gowa,Sulawesi Selatan,149
+30237,92861,73.01.06.2003,73,01,06,2003,7301062003,0,1,Ma'minasa,Pasimasunggu (Pasimassunggu),Kabupaten,Kepulauan Selayar,Sulawesi Selatan,151
+30718,94460,72.08.16.2001,72,08,16,2001,7208162001,0,1,Parigimpu'u,Parigi Barat,Kabupaten,Parigi Moutong,Sulawesi Tengah,153
+31715,67133,35.75.04.1002,35,75,04,1002,3575041002,1,0,Tamba'an (Tambaan),Panggungrejo,Kota,Pasuruan,Jawa Timur,158
+32158,91672,73.14.01.1002,73,14,01,1002,7314011002,1,0,Wette'E,Panca Lautang,Kabupaten,Sidenreng Rappang,Sulawesi Selatan,160
+32720,69362,35.28.06.2004,35,28,06,2004,3528062004,0,1,Akkor,"Palengaan (Palenggaan, Palenga'an)",Kabupaten,Pamekasan,Jawa Timur,163
+32721,69362,35.28.06.2003,35,28,06,2003,3528062003,0,1,Angsanah,"Palengaan (Palenggaan, Palenga'an)",Kabupaten,Pamekasan,Jawa Timur,163
+32722,69362,35.28.06.2001,35,28,06,2001,3528062001,0,1,Banyupelle,"Palengaan (Palenggaan, Palenga'an)",Kabupaten,Pamekasan,Jawa Timur,163
+32723,69362,35.28.06.2009,35,28,06,2009,3528062009,0,1,Kacok,"Palengaan (Palenggaan, Palenga'an)",Kabupaten,Pamekasan,Jawa Timur,163
+32724,69362,35.28.06.2005,35,28,06,2005,3528062005,0,1,Larangan Badung,"Palengaan (Palenggaan, Palenga'an)",Kabupaten,Pamekasan,Jawa Timur,163
+32725,69362,35.28.06.2012,35,28,06,2012,3528062012,0,1,Palengaan Dajah (Palengaan Daja),"Palengaan (Palenggaan, Palenga'an)",Kabupaten,Pamekasan,Jawa Timur,163
+32726,69362,35.28.06.2011,35,28,06,2011,3528062011,0,1,Palengaan Laok,"Palengaan (Palenggaan, Palenga'an)",Kabupaten,Pamekasan,Jawa Timur,163
+32727,69362,35.28.06.2006,35,28,06,2006,3528062006,0,1,Panaan,"Palengaan (Palenggaan, Palenga'an)",Kabupaten,Pamekasan,Jawa Timur,163
+32728,69362,35.28.06.2008,35,28,06,2008,3528062008,0,1,Patoan Dajah (Potoan Daja),"Palengaan (Palenggaan, Palenga'an)",Kabupaten,Pamekasan,Jawa Timur,163
+32729,69362,35.28.06.2007,35,28,06,2007,3528062007,0,1,Patoan Laok (Potoan Laok),"Palengaan (Palenggaan, Palenga'an)",Kabupaten,Pamekasan,Jawa Timur,163
+32730,69362,35.28.06.2002,35,28,06,2002,3528062002,0,1,Rek Kerrek,"Palengaan (Palenggaan, Palenga'an)",Kabupaten,Pamekasan,Jawa Timur,163
+32731,69362,35.28.06.2010,35,28,06,2010,3528062010,0,1,Rombuh,"Palengaan (Palenggaan, Palenga'an)",Kabupaten,Pamekasan,Jawa Timur,163
+32826,92161,73.06.07.2012,73,06,07,2012,7306072012,0,1,Julupa'mai,Palangga (Pallangga),Kabupaten,Gowa,Sulawesi Selatan,164
+32957,93953,74.08.10.2007,74,08,10,2007,7408102007,0,1,To'lemo,Pakue Tengah,Kabupaten,Kolaka Utara,Sulawesi Tenggara,164
+33163,92460,73.03.05.2003,73,03,05,2003,7303052003,0,1,Pa'jukukang,Pajukukang,Kabupaten,Bantaeng,Sulawesi Selatan,165
+33185,31356,16.04.12.2026,16,04,12,2026,1604122026,0,1,Jenti'an (Jentian),Pajar Bulan,Kabupaten,Lahat,Sumatera Selatan,165
+33712,69323,35.28.02.2008,35,28,02,2008,3528022008,0,1,Sopa'ah,Pademawu,Kabupaten,Pamekasan,Jawa Timur,168
+34521,22864,12.14.22.2001,12,14,22,2001,1214222001,0,1,Fadoro Ewo (Fadoro'ewo),Onohazumba,Kabupaten,Nias Selatan,Sumatera Utara,172
+34524,22864,12.14.22.2003,12,14,22,2003,1214222003,0,1,Lauso (La'uso),Onohazumba,Kabupaten,Nias Selatan,Sumatera Utara,172
+34529,22864,12.14.22.2002,12,14,22,2002,1214222002,0,1,Soroma'asi,Onohazumba,Kabupaten,Nias Selatan,Sumatera Utara,172
+34903,22864,12.14.21.2011,12,14,21,2011,1214212011,0,1,Balohili O'o'u,O'o'u (Oou),Kabupaten,Nias Selatan,Sumatera Utara,174
+34904,22864,12.14.21.2004,12,14,21,2004,1214212004,0,1,Bawosalo'o Bawoluo,O'o'u (Oou),Kabupaten,Nias Selatan,Sumatera Utara,174
+34905,22864,12.14.21.2002,12,14,21,2002,1214212002,0,1,Hilimbowo,O'o'u (Oou),Kabupaten,Nias Selatan,Sumatera Utara,174
+34906,22864,12.14.21.2005,12,14,21,2005,1214212005,0,1,Hilimbuasi,O'o'u (Oou),Kabupaten,Nias Selatan,Sumatera Utara,174
+34907,22864,12.14.21.2001,12,14,21,2001,1214212001,0,1,Hilinamazihono (Hilinamozihono),O'o'u (Oou),Kabupaten,Nias Selatan,Sumatera Utara,174
+34908,22864,12.14.21.2010,12,14,21,2010,1214212010,0,1,Hilinamazihono Moale (Hilinamozihono Moale),O'o'u (Oou),Kabupaten,Nias Selatan,Sumatera Utara,174
+34909,22864,12.14.21.2009,12,14,21,2009,1214212009,0,1,Hiliorudua (Hilioru dua),O'o'u (Oou),Kabupaten,Nias Selatan,Sumatera Utara,174
+34910,22864,12.14.21.2007,12,14,21,2007,1214212007,0,1,Lolomaya,O'o'u (Oou),Kabupaten,Nias Selatan,Sumatera Utara,174
+34911,22864,12.14.21.2003,12,14,21,2003,1214212003,0,1,Simandraolo / Simandaolo,O'o'u (Oou),Kabupaten,Nias Selatan,Sumatera Utara,174
+34912,22864,12.14.21.2006,12,14,21,2006,1214212006,0,1,Simandraolo O'o'u,O'o'u (Oou),Kabupaten,Nias Selatan,Sumatera Utara,174
+34913,22864,12.14.21.2008,12,14,21,2008,1214212008,0,1,Suka Maju,O'o'u (Oou),Kabupaten,Nias Selatan,Sumatera Utara,174
+34919,75776,64.07.16.2006,64,07,16,2006,6407162006,0,1,Mu'ut,Nyuatan,Kabupaten,Kutai Barat,Kalimantan Timur,174
+35260,85567,53.02.26.2004,53,02,26,2004,5302262004,0,1,Oe'ekam (Oe Ekam / Oelekam),Noebeba,Kabupaten,Timor Tengah Selatan,Nusa Tenggara Timur (NTT),176
+36152,79354,61.08.01.2008,61,08,01,2008,6108012008,0,1,Mu'un (Muun),Ngabang,Kabupaten,Landak,Kalimantan Barat,180
+36292,86750,53.15.08.2014,53,15,08,2014,5315082014,0,1,Golo Ru'a,Ndoso,Kabupaten,Manggarai Barat,Nusa Tenggara Timur (NTT),181
+36428,38964,17.04.07.2019,17,04,07,2019,1704072019,0,1,Pasar Jum'at (Pasar Jumat),Nasal,Kabupaten,Kaur,Bengkulu,182
+36538,91856,73.26.03.2003,73,26,03,2003,7326032003,0,1,Lili'kira' (Lilikira),Nanggala,Kabupaten,Toraja Utara,Sulawesi Selatan,182
+36541,91856,73.26.03.2008,73,26,03,2008,7326032008,0,1,Nanna' Nanggala (Nanna Nanggala),Nanggala,Kabupaten,Toraja Utara,Sulawesi Selatan,182
+37306,37216,15.08.08.2009,15,08,08,2009,1508082009,0,1,Pekan Jum'at,Muko-muko Bathin VII,Kabupaten,Bungo,Jambi,186
+37081,71571,63.09.06.1006,63,09,06,1006,6309061006,1,0,Mabu'un (Mabuun),Murung Pudak,Kabupaten,Tabalong,Kalimantan Selatan,185
+37095,73911,62.12.01.2007,62,12,01,2007,6212012007,0,1,Muara Ja'an (Muara Jaan),Murung,Kabupaten,Murung Raya,Kalimantan Tengah,185
+37098,73911,62.12.01.2005,62,12,01,2005,6212012005,0,1,Panu'ut (Panuut / Panaout),Murung,Kabupaten,Murung Raya,Kalimantan Tengah,185
+38321,22862,12.25.04.2002,12,25,04,2002,1225042002,0,1,Gunungbaru (Gunung Baru),Moro'o,Kabupaten,Nias Barat,Sumatera Utara,191
+38322,22862,12.25.04.2006,12,25,04,2006,1225042006,0,1,Halifadolo (Hilifadolo),Moro'o,Kabupaten,Nias Barat,Sumatera Utara,191
+38323,22862,12.25.04.2003,12,25,04,2003,1225042003,0,1,Hilisoromi (Hili Soromi),Moro'o,Kabupaten,Nias Barat,Sumatera Utara,191
+38324,22862,12.25.04.2008,12,25,04,2008,1225042008,0,1,Hiliwaele (Hili Waele),Moro'o,Kabupaten,Nias Barat,Sumatera Utara,191
+38325,22862,12.25.04.2001,12,25,04,2001,1225042001,0,1,Hiliwaloo II,Moro'o,Kabupaten,Nias Barat,Sumatera Utara,191
+38326,22862,12.25.04.2007,12,25,04,2007,1225042007,0,1,Lasara Bahili,Moro'o,Kabupaten,Nias Barat,Sumatera Utara,191
+38327,22862,12.25.04.2010,12,25,04,2010,1225042010,0,1,Onozalukhu You,Moro'o,Kabupaten,Nias Barat,Sumatera Utara,191
+38328,22862,12.25.04.2004,12,25,04,2004,1225042004,0,1,Siduahili (Sidua Hili),Moro'o,Kabupaten,Nias Barat,Sumatera Utara,191
+38329,22862,12.25.04.2005,12,25,04,2005,1225042005,0,1,Sitolubanua Fadoro (Sitolu Banua Fadoro),Moro'o,Kabupaten,Nias Barat,Sumatera Utara,191
+38330,22862,12.25.04.2009,12,25,04,2009,1225042009,0,1,Sitoluewali (Sitolu Ewali),Moro'o,Kabupaten,Nias Barat,Sumatera Utara,191
+38342,94964,72.12.06.2005,72,12,06,2005,7212062005,0,1,Tiwa'a (Tiwaa),Mori Utara,Kabupaten,Morowali Utara,Sulawesi Tengah,191
+38606,85543,53.02.30.2004,53,02,30,2004,5302302004,0,1,Oel'ekam,Mollo Tengah,Kabupaten,Timor Tengah Selatan,Nusa Tenggara Timur (NTT),193
+38592,85552,53.02.03.2016,53,02,03,2016,5302032016,0,1,Kokfe'u,Mollo Utara,Kabupaten,Timor Tengah Selatan,Nusa Tenggara Timur (NTT),192
+38597,85552,53.02.03.2001,53,02,03,2001,5302032001,0,1,O'besi (Obesi),Mollo Utara,Kabupaten,Timor Tengah Selatan,Nusa Tenggara Timur (NTT),192
+38600,85552,53.02.03.2017,53,02,03,2017,5302032017,0,1,To'fen,Mollo Utara,Kabupaten,Timor Tengah Selatan,Nusa Tenggara Timur (NTT),192
+39075,85661,53.03.02.2028,53,03,02,2028,5303022028,0,1,Sa'tab,Miomaffo Barat (Miomafo Barat),Kabupaten,Timor Tengah Utara,Nusa Tenggara Timur (NTT),195
+39919,79360,61.08.06.2018,61,08,06,2018,6108062018,0,1,Ta'as (Ta As),Menyuke,Kabupaten,Landak,Kalimantan Barat,199
+40066,79362,61.08.03.2005,61,08,03,2005,6108032005,0,1,Re'es (Rees),Menjalin,Kabupaten,Landak,Kalimantan Barat,200
+40092,91870,73.18.12.2026,73,18,12,2026,7318122026,0,1,Ke'pe Tinoring (Ke Pe Tinoring),Mengkendek,Kabupaten,Tana Toraja,Sulawesi Selatan,200
+40095,91870,73.18.12.2018,73,18,12,2018,7318122018,0,1,Pa'tengko,Mengkendek,Kabupaten,Tana Toraja,Sulawesi Selatan,200
+40100,91870,73.18.12.1002,73,18,12,1002,7318121002,1,0,Rante Kalua' (Rante Kalua),Mengkendek,Kabupaten,Tana Toraja,Sulawesi Selatan,200
+40751,22873,12.14.17.2001,12,14,17,2001,1214172001,0,1,Tetegawa'ai,Mazo,Kabupaten,Nias Selatan,Sumatera Utara,203
+40752,22873,12.14.17.2011,12,14,17,2011,1214172011,0,1,Tetegawa'ai Ehomo,Mazo,Kabupaten,Nias Selatan,Sumatera Utara,203
+40759,22865,12.14.13.2001,12,14,13,2001,1214132001,0,1,Hilizalo'otano,Mazino,Kabupaten,Nias Selatan,Sumatera Utara,203
+40760,22865,12.14.13.2006,12,14,13,2006,1214132006,0,1,Hilizalo'otano Laowo,Mazino,Kabupaten,Nias Selatan,Sumatera Utara,203
+40761,22865,12.14.13.2007,12,14,13,2007,1214132007,0,1,Hilizalo'otano Larono,Mazino,Kabupaten,Nias Selatan,Sumatera Utara,203
+41021,91350,76.04.09.2006,76,04,09,2006,7604092006,0,1,Ba'ba Tapua,Matangnga,Kabupaten,Polewali Mandar,Sulawesi Barat,205
+41112,93770,74.06.08.2011,74,06,08,2011,7406082011,0,1,Pu'u Waeya,Mata Oleo,Kabupaten,Bombana,Sulawesi Tenggara,205
+41190,91894,73.18.31.2004,73,18,31,2004,7318312004,0,1,Pondingao' (Pondingao),Masanda,Kabupaten,Tana Toraja,Sulawesi Selatan,205
+41192,91894,73.18.31.2008,73,18,31,2008,7318312008,0,1,Sesesalu (Sese Salu / Sese'alu),Masanda,Kabupaten,Tana Toraja,Sulawesi Selatan,205
+40235,79363,61.08.02.2005,61,08,02,2005,6108022005,0,1,Sala'as,Mempawah Hulu,Kabupaten,Landak,Kalimantan Barat,201
+40389,32276,16.09.08.2015,16,09,08,2015,1609082015,0,1,Pere'an,Mekakau Ilir,Kabupaten,Ogan Komering Ulu Selatan,Sumatera Selatan,201
+41777,92232,73.05.01.2010,73,05,01,2010,7305012010,0,1,Pa'batangang,Mappakasunggu,Kabupaten,Takalar,Sulawesi Selatan,208
+41226,91757,73.16.11.2003,73,16,11,2003,7316112003,0,1,Batu Ke'de (Batu Kede),Masalle,Kabupaten,Enrekang,Sulawesi Selatan,206
+41237,90551,73.09.08.2005,73,09,08,2005,7309082005,0,1,Bonto Mate'ne,Marusu,Kabupaten,Maros,Sulawesi Selatan,206
+41238,90551,73.09.08.2004,73,09,08,2004,7309082004,0,1,Ma'rumpa,Marusu,Kabupaten,Maros,Sulawesi Selatan,206
+41240,90551,73.09.08.2007,73,09,08,2007,7309082007,0,1,Pa'bentengang,Marusu,Kabupaten,Maros,Sulawesi Selatan,206
+42159,38511,17.01.04.2024,17,01,04,2024,1701042024,0,1,Mela'o (Melao),Manna,Kabupaten,Bengkulu Selatan,Bengkulu,210
+42239,22865,12.14.10.2012,12,14,10,2012,1214102012,0,1,Soto'o Hilisimaetano,Maniamolo,Kabupaten,Nias Selatan,Sumatera Utara,211
+42488,22862,12.25.05.2007,12,25,05,2007,1225052007,0,1,Hiliwaloo I (Hiliwalo'o I),Mandrehe,Kabupaten,Nias Barat,Sumatera Utara,212
+42494,22862,12.25.05.2008,12,25,05,2008,1225052008,0,1,Sianaa (Siana'a),Mandrehe,Kabupaten,Nias Barat,Sumatera Utara,212
+42495,22862,12.25.05.2001,12,25,05,2001,1225052001,0,1,Simaeasi (Simae'asi),Mandrehe,Kabupaten,Nias Barat,Sumatera Utara,212
+42500,22862,12.25.05.2011,12,25,05,2011,1225052011,0,1,Tuhoowo (Tuho'owo),Mandrehe,Kabupaten,Nias Barat,Sumatera Utara,212
+42587,69452,35.29.03.2008,35,29,03,2008,3529032008,0,1,Jaba'an,Manding,Kabupaten,Sumenep,Jawa Timur,212
+43579,98974,94.05.16.2003,94,05,16,2003,9405162003,0,1,Amuleme,Mage'abume,Kabupaten,Puncak,Papua Tengah,217
+43580,98974,94.05.16.2007,94,05,16,2007,9405162007,0,1,Gelegi,Mage'abume,Kabupaten,Puncak,Papua Tengah,217
+43581,98974,94.05.16.2004,94,05,16,2004,9405162004,0,1,Jigunggi,Mage'abume,Kabupaten,Puncak,Papua Tengah,217
+43582,98974,94.05.16.2009,94,05,16,2009,9405162009,0,1,Kondokwe,Mage'abume,Kabupaten,Puncak,Papua Tengah,217
+43583,98974,94.05.16.2005,94,05,16,2005,9405162005,0,1,Kumikomo,Mage'abume,Kabupaten,Puncak,Papua Tengah,217
+43584,98974,94.05.16.2001,94,05,16,2001,9405162001,0,1,Nigilome,Mage'abume,Kabupaten,Puncak,Papua Tengah,217
+43585,98974,94.05.16.2006,94,05,16,2006,9405162006,0,1,Rumagi,Mage'abume,Kabupaten,Puncak,Papua Tengah,217
+43586,98974,94.05.16.2010,94,05,16,2010,9405162010,0,1,Tinibolu,Mage'abume,Kabupaten,Puncak,Papua Tengah,217
+43587,98974,94.05.16.2002,94,05,16,2002,9405162002,0,1,Weni,Mage'abume,Kabupaten,Puncak,Papua Tengah,217
+43588,98974,94.05.16.2011,94,05,16,2011,9405162011,0,1,Winanggwi,Mage'abume,Kabupaten,Puncak,Papua Tengah,217
+43589,98974,94.05.16.2008,94,05,16,2008,9405162008,0,1,Wombru,Mage'abume,Kabupaten,Puncak,Papua Tengah,217
+43035,91861,73.18.35.2006,73,18,35,2006,7318352006,0,1,Balepe' (Balepe),Malimbong Balepe,Kabupaten,Tana Toraja,Sulawesi Selatan,215
+43345,91815,73.18.29.2008,73,18,29,2008,7318292008,0,1,Bo'ne Buntu Sisong (Bone Buntu Sisong),Makale Selatan,Kabupaten,Tana Toraja,Sulawesi Selatan,216
+43346,91815,73.18.29.2007,73,18,29,2007,7318292007,0,1,Pa'buaran (Pabuaran),Makale Selatan,Kabupaten,Tana Toraja,Sulawesi Selatan,216
+43352,91815,73.18.29.1003,73,18,29,1003,7318291003,1,0,Tosapan (To' Sapan),Makale Selatan,Kabupaten,Tana Toraja,Sulawesi Selatan,216
+42645,73556,62.03.15.2004,62,03,15,2004,6203152004,0,1,Karetau Manta'a (Karetau Mantaa),Mandau Talawang,Kabupaten,Kapuas,Kalimantan Tengah,213
+42684,90655,73.10.11.2003,73,10,11,2003,7310112003,0,1,Tama'rupa,Mandalle,Kabupaten,Pangkajene Kepulauan,Sulawesi Selatan,213
+42705,90552,73.09.01.2005,73,09,01,2005,7309012005,0,1,Bonto Mate'ne,Mandai,Kabupaten,Maros,Sulawesi Selatan,213
+42767,94968,72.12.09.2014,72,12,09,2014,7212092014,0,1,Menyo'e (Manyoe),Mamosalato,Kabupaten,Morowali Utara,Sulawesi Tengah,213
+42873,90131,73.71.02.1007,73,71,02,1007,7371021007,1,0,Pa'batang (Pa Batang),Mamajang,Kota,Makassar,Sulawesi Selatan,214
+44022,77457,65.03.04.2027,65,03,04,2027,6503042027,0,1,Pa'lemumut (Pa Lemumut),Lumbis,Kabupaten,Nunukan,Kalimantan Utara,220
+44023,77457,65.03.04.2021,65,03,04,2021,6503042021,0,1,Pa'loo (Pa Loo),Lumbis,Kabupaten,Nunukan,Kalimantan Utara,220
+44152,38882,17.05.07.2011,17,05,07,2011,1705072011,0,1,Tumbu'an (Tumbuan),Lubuk Sandi,Kabupaten,Seluma,Bengkulu,220
+43776,98967,94.05.19.2003,94,05,19,2003,9405192003,0,1,Ko'eao,Mabugi,Kabupaten,Puncak,Papua Tengah,218
+43821,22855,12.04.28.2007,12,04,28,2007,1204282007,0,1,Atualuo,Ma'u,Kabupaten,Nias,Sumatera Utara,219
+43822,22855,12.04.28.2001,12,04,28,2001,1204282001,0,1,Balodano,Ma'u,Kabupaten,Nias,Sumatera Utara,219
+43823,22855,12.04.28.2009,12,04,28,2009,1204282009,0,1,Dekha,Ma'u,Kabupaten,Nias,Sumatera Utara,219
+43824,22855,12.04.28.2005,12,04,28,2005,1204282005,0,1,Lasara Siwalu Banua,Ma'u,Kabupaten,Nias,Sumatera Utara,219
+43825,22855,12.04.28.2008,12,04,28,2008,1204282008,0,1,Lewa Lewa (Lewa - Lewa),Ma'u,Kabupaten,Nias,Sumatera Utara,219
+43826,22855,12.04.28.2002,12,04,28,2002,1204282002,0,1,Lewuoguru II (Lewu Oguru II / Lewuaguru II),Ma'u,Kabupaten,Nias,Sumatera Utara,219
+43827,22855,12.04.28.2003,12,04,28,2003,1204282003,0,1,Sihare'o III (Sihaero III),Ma'u,Kabupaten,Nias,Sumatera Utara,219
+43828,22855,12.04.28.2010,12,04,28,2010,1204282010,0,1,Sihare'o III Bawosalo'o Berua,Ma'u,Kabupaten,Nias,Sumatera Utara,219
+43829,22855,12.04.28.2011,12,04,28,2011,1204282011,0,1,Sihare'o III Hilibadalu,Ma'u,Kabupaten,Nias,Sumatera Utara,219
+43830,22855,12.04.28.2004,12,04,28,2004,1204282004,0,1,Sisarahilima'u (Sisarahili Ma U),Ma'u,Kabupaten,Nias,Sumatera Utara,219
+43831,22855,12.04.28.2006,12,04,28,2006,1204282006,0,1,Tuhemberua,Ma'u,Kabupaten,Nias,Sumatera Utara,219
+44666,75769,64.11.04.2006,64,11,04,2006,6411042006,0,1,Tiong Bu'u (Tiong Buu),Long Apari,Kabupaten,Mahakam Ulu,Kalimantan Timur,223
+44669,22864,12.14.08.2004,12,14,08,2004,1214082004,0,1,Bawosalo'o Siwalawa (Bawosaloo Sowalawa),Lolowau,Kabupaten,Nias Selatan,Sumatera Utara,223
+44698,22867,12.14.01.2024,12,14,01,2024,1214012024,0,1,Ko'olotano,Lolomatua,Kabupaten,Nias Selatan,Sumatera Utara,223
+45653,23355,11.06.02.2010,11,06,02,2010,1106022010,0,1,Aneuk Paya (Ateuk Paya),Lhoknga (Lho'nga),Kabupaten,Aceh Besar,Aceh (NAD),228
+45654,23355,11.06.02.2008,11,06,02,2008,1106022008,0,1,Kueh,Lhoknga (Lho'nga),Kabupaten,Aceh Besar,Aceh (NAD),228
+45655,23355,11.06.02.2007,11,06,02,2007,1106022007,0,1,Lam Ateuk,Lhoknga (Lho'nga),Kabupaten,Aceh Besar,Aceh (NAD),228
+45656,23355,11.06.02.2006,11,06,02,2006,1106022006,0,1,Lambaro Kueh,Lhoknga (Lho'nga),Kabupaten,Aceh Besar,Aceh (NAD),228
+45657,23355,11.06.02.2013,11,06,02,2013,1106022013,0,1,Lambaro Seubun,Lhoknga (Lho'nga),Kabupaten,Aceh Besar,Aceh (NAD),228
+45658,23355,11.06.02.2026,11,06,02,2026,1106022026,0,1,Lamcok (Lam Cok),Lhoknga (Lho'nga),Kabupaten,Aceh Besar,Aceh (NAD),228
+45659,23355,11.06.02.2005,11,06,02,2005,1106022005,0,1,Lamgaboh (Lam Gaboh),Lhoknga (Lho'nga),Kabupaten,Aceh Besar,Aceh (NAD),228
+45660,23355,11.06.02.2004,11,06,02,2004,1106022004,0,1,Lamkrut (Lam Kruet),Lhoknga (Lho'nga),Kabupaten,Aceh Besar,Aceh (NAD),228
+45661,23355,11.06.02.2015,11,06,02,2015,1106022015,0,1,Lampaya,Lhoknga (Lho'nga),Kabupaten,Aceh Besar,Aceh (NAD),228
+45662,23355,11.06.02.2021,11,06,02,2021,1106022021,0,1,Meunasah Baro Lamlhom,Lhoknga (Lho'nga),Kabupaten,Aceh Besar,Aceh (NAD),228
+45663,23355,11.06.02.2024,11,06,02,2024,1106022024,0,1,Meunasah Belee (Meunasah Balee Lamlhom),Lhoknga (Lho'nga),Kabupaten,Aceh Besar,Aceh (NAD),228
+45664,23355,11.06.02.2022,11,06,02,2022,1106022022,0,1,Meunasah Beutong,Lhoknga (Lho'nga),Kabupaten,Aceh Besar,Aceh (NAD),228
+45665,23355,11.06.02.2028,11,06,02,2028,1106022028,0,1,Meunasah Blang,Lhoknga (Lho'nga),Kabupaten,Aceh Besar,Aceh (NAD),228
+45666,23355,11.06.02.2027,11,06,02,2027,1106022027,0,1,Meunasah Cut,Lhoknga (Lho'nga),Kabupaten,Aceh Besar,Aceh (NAD),228
+45667,23355,11.06.02.2025,11,06,02,2025,1106022025,0,1,Meunasah Karieng,Lhoknga (Lho'nga),Kabupaten,Aceh Besar,Aceh (NAD),228
+45668,23355,11.06.02.2019,11,06,02,2019,1106022019,0,1,Meunasah Lam Girek,Lhoknga (Lho'nga),Kabupaten,Aceh Besar,Aceh (NAD),228
+45669,23355,11.06.02.2020,11,06,02,2020,1106022020,0,1,Meunasah Lambaro (Meunasah Baro Lam Puuk),Lhoknga (Lho'nga),Kabupaten,Aceh Besar,Aceh (NAD),228
+45670,23355,11.06.02.2018,11,06,02,2018,1106022018,0,1,Meunasah Manyang,Lhoknga (Lho'nga),Kabupaten,Aceh Besar,Aceh (NAD),228
+45671,23355,11.06.02.2016,11,06,02,2016,1106022016,0,1,Meunasah Mesjid Lamlhom,Lhoknga (Lho'nga),Kabupaten,Aceh Besar,Aceh (NAD),228
+45672,23355,11.06.02.2017,11,06,02,2017,1106022017,0,1,Meunasah Mon Cut,Lhoknga (Lho'nga),Kabupaten,Aceh Besar,Aceh (NAD),228
+45673,23355,11.06.02.2023,11,06,02,2023,1106022023,0,1,Mns. Mesjid Lampuuk,Lhoknga (Lho'nga),Kabupaten,Aceh Besar,Aceh (NAD),228
+45674,23355,11.06.02.2001,11,06,02,2001,1106022001,0,1,Mon Ikeun,Lhoknga (Lho'nga),Kabupaten,Aceh Besar,Aceh (NAD),228
+45675,23355,11.06.02.2014,11,06,02,2014,1106022014,0,1,Naga Umbang,Lhoknga (Lho'nga),Kabupaten,Aceh Besar,Aceh (NAD),228
+45676,23355,11.06.02.2002,11,06,02,2002,1106022002,0,1,Nusa,Lhoknga (Lho'nga),Kabupaten,Aceh Besar,Aceh (NAD),228
+45677,23355,11.06.02.2012,11,06,02,2012,1106022012,0,1,Seubun Ayon,Lhoknga (Lho'nga),Kabupaten,Aceh Besar,Aceh (NAD),228
+45678,23355,11.06.02.2011,11,06,02,2011,1106022011,0,1,Seubun Keutapang,Lhoknga (Lho'nga),Kabupaten,Aceh Besar,Aceh (NAD),228
+45679,23355,11.06.02.2009,11,06,02,2009,1106022009,0,1,Tanjong,Lhoknga (Lho'nga),Kabupaten,Aceh Besar,Aceh (NAD),228
+45680,23355,11.06.02.2003,11,06,02,2003,1106022003,0,1,Weu Raya,Lhoknga (Lho'nga),Kabupaten,Aceh Besar,Aceh (NAD),228
+45796,86376,53.08.21.2013,53,08,21,2013,5308212013,0,1,Mukureku Sa'ate (Mukureku Sa Ate),Lepembusu Kelisoke,Kabupaten,Ende,Nusa Tenggara Timur (NTT),228
+44413,22868,12.14.32.2002,12,14,32,2002,1214322002,0,1,Botohilisalo'o,Luahagundre Maniamolo,Kabupaten,Nias Selatan,Sumatera Utara,222
+44454,22856,12.24.01.2006,12,24,01,2006,1224012006,0,1,Lombuza'ua (Lombuzaua),Lotu,Kabupaten,Nias Utara,Sumatera Utara,222
+46010,94967,72.12.03.2007,72,12,03,2007,7212032007,0,1,Pa'awaru,Lembo Raya,Kabupaten,Morowali Utara,Sulawesi Tengah,230
+46012,94967,72.12.03.2002,72,12,03,2002,7212032002,0,1,Po'ona,Lembo Raya,Kabupaten,Morowali Utara,Sulawesi Tengah,230
+47294,84180,52.06.11.2006,52,06,11,2006,5206112006,0,1,Doro Oo (Doro O'o),Langgudu,Kabupaten,Bima,Nusa Tenggara Barat (NTB),236
+47498,84181,52.06.17.2005,52,06,17,2005,5206172005,0,1,Ka'owa,Lambitu,Kabupaten,Bima,Nusa Tenggara Barat (NTB),237
+47510,98973,94.05.21.2002,94,05,21,2002,9405212002,0,1,Wenggen'ambut,Lambewi,Kabupaten,Puncak,Papua Tengah,237
+47816,22874,12.14.03.2003,12,14,03,2003,1214032003,0,1,Bawo'otalua (Bawootalua),Lahusa,Kabupaten,Nias Selatan,Sumatera Utara,239
+47853,22858,12.24.11.2004,12,24,11,2004,1224112004,0,1,Tefa'o (Tefao),Lahewa Timur,Kabupaten,Nias Utara,Sumatera Utara,239
+47864,22853,12.24.10.2007,12,24,10,2007,1224102007,0,1,Hilina'a (Hilina A),Lahewa,Kabupaten,Nias Utara,Sumatera Utara,239
+47874,22853,12.24.10.2004,12,24,10,2004,1224102004,0,1,Sifaoro'asi (Sifaoroasi),Lahewa,Kabupaten,Nias Utara,Sumatera Utara,239
+47875,22853,12.24.10.2019,12,24,10,2019,1224102019,0,1,Sihene'asi (Siheneasi),Lahewa,Kabupaten,Nias Utara,Sumatera Utara,239
+47975,94661,72.02.03.2017,72,02,03,2017,7202032017,0,1,Rato'ombu,Lage,Kabupaten,Poso,Sulawesi Tengah,239
+47607,91952,73.17.18.2006,73,17,18,2006,7317182006,0,1,To'lemo (To Lemo),Lamasi Timur,Kabupaten,Luwu,Sulawesi Selatan,238
+47608,91952,73.17.09.2024,73,17,09,2024,7317092024,0,1,Awo' Gading,Lamasi,Kabupaten,Luwu,Sulawesi Selatan,238
+47613,91952,73.17.09.2022,73,17,09,2022,7317092022,0,1,Se'pon (Se Pong),Lamasi,Kabupaten,Luwu,Sulawesi Selatan,238
+47615,91952,73.17.09.2020,73,17,09,2020,7317092020,0,1,To'pongo (To Pongo),Lamasi,Kabupaten,Luwu,Sulawesi Selatan,238
+48204,69164,35.26.12.2008,35,26,12,2008,3526122008,0,1,Baengas (Ba'engas),Labang,Kabupaten,Bangkalan,Jawa Timur,241
+48345,86752,53.15.02.1022,53,15,02,1022,5315021022,1,0,Golo Ru'u,Kuwus,Kabupaten,Manggarai Barat,Nusa Tenggara Timur (NTT),241
+46821,91921,73.17.12.2010,73,17,12,2010,7317122010,0,1,To'barru (Tobaru),Latimojong,Kabupaten,Luwu,Sulawesi Selatan,234
+46822,91921,73.17.12.2012,73,17,12,2012,7317122012,0,1,To'lajuk,Latimojong,Kabupaten,Luwu,Sulawesi Selatan,234
+46936,91998,73.17.10.2005,73,17,10,2005,7317102005,0,1,La'loa (La Loa),Larompong Selatan,Kabupaten,Luwu,Sulawesi Selatan,234
+49219,93672,74.10.01.1016,74,10,01,1016,7410011016,1,0,Sara'ea,Kulisusu (Kalingsusu/Kalisusu),Kabupaten,Buton Utara,Sulawesi Tenggara,246
+49234,94373,72.10.06.2008,72,10,06,2008,7210062008,0,1,O'o Parese (O'o),Kulawi Selatan,Kabupaten,Sigi,Sulawesi Tengah,246
+49353,85551,53.02.27.2006,53,02,27,2006,5302272006,0,1,O'of (Oof),Kuatnana,Kabupaten,Timor Tengah Selatan,Nusa Tenggara Timur (NTT),246
+48161,71361,63.07.03.2015,63,07,03,2015,6307032015,0,1,Murung Ta'al (Murung Taal),Labuan Amas Selatan,Kabupaten,Hulu Sungai Tengah,Kalimantan Selatan,240
+48167,71361,63.07.03.2008,63,07,03,2008,6307032008,0,1,Ta'al (Taal),Labuan Amas Selatan,Kabupaten,Hulu Sungai Tengah,Kalimantan Selatan,240
+49584,29335,14.02.10.2010,14,02,10,2010,1402102010,0,1,Pulau Jum'at (Pulau Jumat),Kuala Cenaku,Kabupaten,Indragiri Hulu,Riau,247
+49875,77459,65.03.18.2001,65,03,18,2001,6503182001,0,1,Pa' Betung (Pa Betung),Krayan Timur,Kabupaten,Nunukan,Kalimantan Utara,249
+49876,77459,65.03.18.2005,65,03,18,2005,6503182005,0,1,Pa' Kebuan (Pa Kebuan),Krayan Timur,Kabupaten,Nunukan,Kalimantan Utara,249
+49877,77459,65.03.18.2013,65,03,18,2013,6503182013,0,1,Pa' Lidung (Pa Lidung),Krayan Timur,Kabupaten,Nunukan,Kalimantan Utara,249
+49878,77459,65.03.18.2004,65,03,18,2004,6503182004,0,1,Pa' Melade (Pa Melade),Krayan Timur,Kabupaten,Nunukan,Kalimantan Utara,249
+49879,77459,65.03.18.2011,65,03,18,2011,6503182011,0,1,Pa' Pala (Pa Pala),Krayan Timur,Kabupaten,Nunukan,Kalimantan Utara,249
+49880,77459,65.03.18.2003,65,03,18,2003,6503182003,0,1,Pa' Pawan (Pa Pawan),Krayan Timur,Kabupaten,Nunukan,Kalimantan Utara,249
+49881,77459,65.03.18.2007,65,03,18,2007,6503182007,0,1,Pa' Rangeb (Pa Rangeb),Krayan Timur,Kabupaten,Nunukan,Kalimantan Utara,249
+49882,77459,65.03.18.2014,65,03,18,2014,6503182014,0,1,Pa' Raye (Pa Raye),Krayan Timur,Kabupaten,Nunukan,Kalimantan Utara,249
+49883,77459,65.03.18.2006,65,03,18,2006,6503182006,0,1,Pa' Umung (Pa Umung),Krayan Timur,Kabupaten,Nunukan,Kalimantan Utara,249
+49885,77459,65.03.18.2016,65,03,18,2016,6503182016,0,1,Wa' Yagung (Wa Yagung),Krayan Timur,Kabupaten,Nunukan,Kalimantan Utara,249
+49886,77458,65.03.17.2009,65,03,17,2009,6503172009,0,1,Ba' Liku (Ba Liku),Krayan Tengah,Kabupaten,Nunukan,Kalimantan Utara,249
+49893,77458,65.03.17.2008,65,03,17,2008,6503172008,0,1,Pa' Milau (Pa Milau),Krayan Tengah,Kabupaten,Nunukan,Kalimantan Utara,249
+49894,77458,65.03.17.2011,65,03,17,2011,6503172011,0,1,Pa' Yalau (Pa Yalau),Krayan Tengah,Kabupaten,Nunukan,Kalimantan Utara,249
+49902,77454,65.03.07.2004,65,03,07,2004,6503072004,0,1,Pa' Amai (Pa Amai),Krayan Selatan,Kabupaten,Nunukan,Kalimantan Utara,249
+49903,77454,65.03.07.2009,65,03,07,2009,6503072009,0,1,Pa' Dalan (Pa Dalan),Krayan Selatan,Kabupaten,Nunukan,Kalimantan Utara,249
+49904,77454,65.03.07.2003,65,03,07,2003,6503072003,0,1,Pa' Ibang (Pa Ibang),Krayan Selatan,Kabupaten,Nunukan,Kalimantan Utara,249
+49905,77454,65.03.07.2005,65,03,07,2005,6503072005,0,1,Pa' Kaber (Pa Kaber),Krayan Selatan,Kabupaten,Nunukan,Kalimantan Utara,249
+49906,77454,65.03.07.2007,65,03,07,2007,6503072007,0,1,Pa' Sing (Pa Sing),Krayan Selatan,Kabupaten,Nunukan,Kalimantan Utara,249
+49907,77454,65.03.07.2006,65,03,07,2006,6503072006,0,1,Pa' Tera (Pa Tera),Krayan Selatan,Kabupaten,Nunukan,Kalimantan Utara,249
+49908,77454,65.03.07.2011,65,03,07,2011,6503072011,0,1,Pa' Upan (Pa Upan),Krayan Selatan,Kabupaten,Nunukan,Kalimantan Utara,249
+49909,77454,65.03.07.2020,65,03,07,2020,6503072020,0,1,Pa' Urang (Pa Urang),Krayan Selatan,Kabupaten,Nunukan,Kalimantan Utara,249
+49921,77455,65.03.19.2025,65,03,19,2025,6503192025,0,1,Ma' Libu (Ma Libu),Krayan Barat,Kabupaten,Nunukan,Kalimantan Utara,249
+49922,77455,65.03.19.2009,65,03,19,2009,6503192009,0,1,Pa' Butal (Pa Butal),Krayan Barat,Kabupaten,Nunukan,Kalimantan Utara,249
+49923,77455,65.03.19.2010,65,03,19,2010,6503192010,0,1,Pa' Delung (Pa Delung),Krayan Barat,Kabupaten,Nunukan,Kalimantan Utara,249
+49924,77455,65.03.19.2006,65,03,19,2006,6503192006,0,1,Pa' Inan (Pa Inan),Krayan Barat,Kabupaten,Nunukan,Kalimantan Utara,249
+49925,77455,65.03.19.2012,65,03,19,2012,6503192012,0,1,Pa' Kemut (Pa Kemut),Krayan Barat,Kabupaten,Nunukan,Kalimantan Utara,249
+49926,77455,65.03.19.2013,65,03,19,2013,6503192013,0,1,Pa' Kidang (Pa Kidang),Krayan Barat,Kabupaten,Nunukan,Kalimantan Utara,249
+49927,77455,65.03.19.2024,65,03,19,2024,6503192024,0,1,Pa' Lutut (Pa Lutut),Krayan Barat,Kabupaten,Nunukan,Kalimantan Utara,249
+49928,77455,65.03.19.2022,65,03,19,2022,6503192022,0,1,Pa' Mering (Pa Mering),Krayan Barat,Kabupaten,Nunukan,Kalimantan Utara,249
+49929,77455,65.03.19.2001,65,03,19,2001,6503192001,0,1,Pa' Mulak (Pa Mulak),Krayan Barat,Kabupaten,Nunukan,Kalimantan Utara,249
+49930,77455,65.03.19.2023,65,03,19,2023,6503192023,0,1,Pa' Pani (Pa Pani),Krayan Barat,Kabupaten,Nunukan,Kalimantan Utara,249
+49931,77455,65.03.19.2015,65,03,19,2015,6503192015,0,1,Pa' Payak (Pa Payak),Krayan Barat,Kabupaten,Nunukan,Kalimantan Utara,249
+49932,77455,65.03.19.2016,65,03,19,2016,6503192016,0,1,Pa' Pirit (Pa Pirit),Krayan Barat,Kabupaten,Nunukan,Kalimantan Utara,249
+49933,77455,65.03.19.2011,65,03,19,2011,6503192011,0,1,Pa' Urud (Pa Urud),Krayan Barat,Kabupaten,Nunukan,Kalimantan Utara,249
+49948,77456,65.03.05.2036,65,03,05,2036,6503052036,0,1,Pa' Api (Pa Api),Krayan,Kabupaten,Nunukan,Kalimantan Utara,249
+49949,77456,65.03.05.2048,65,03,05,2048,6503052048,0,1,Pa' Matung (Pa Matung),Krayan,Kabupaten,Nunukan,Kalimantan Utara,249
+49950,77456,65.03.05.2031,65,03,05,2031,6503052031,0,1,Pa' Nado (Pa Nado),Krayan,Kabupaten,Nunukan,Kalimantan Utara,249
+49951,77456,65.03.05.2002,65,03,05,2002,6503052002,0,1,Pa' Padi (Pa Padi),Krayan,Kabupaten,Nunukan,Kalimantan Utara,249
+49952,77456,65.03.05.2065,65,03,05,2065,6503052065,0,1,Pa' Putuk (Pa Putuk),Krayan,Kabupaten,Nunukan,Kalimantan Utara,249
+49953,77456,65.03.05.2029,65,03,05,2029,6503052029,0,1,Pa' Rupai (Pa Rupai),Krayan,Kabupaten,Nunukan,Kalimantan Utara,249
+49954,77456,65.03.05.2037,65,03,05,2037,6503052037,0,1,Pa' Sire (Pa Sire),Krayan,Kabupaten,Nunukan,Kalimantan Utara,249
+49955,77456,65.03.05.2049,65,03,05,2049,6503052049,0,1,Pa' Terutun (Pa Terutun),Krayan,Kabupaten,Nunukan,Kalimantan Utara,249
+49956,77456,65.03.05.2047,65,03,05,2047,6503052047,0,1,Wa' Laya (Wa Laya),Krayan,Kabupaten,Nunukan,Kalimantan Utara,249
+49957,77456,65.03.05.2038,65,03,05,2038,6503052038,0,1,Wa' Yanud (Wa Yanud),Krayan,Kabupaten,Nunukan,Kalimantan Utara,249
+49175,93675,74.10.05.2011,74,10,05,2011,7410052011,0,1,E'erinere,Kulisusu Utara,Kabupaten,Buton Utara,Sulawesi Tenggara,245
+49182,93675,74.10.05.2006,74,10,05,2006,7410052006,0,1,Petetea'a (Peteteaa),Kulisusu Utara,Kabupaten,Buton Utara,Sulawesi Tenggara,245
+51303,85563,53.02.19.2007,53,02,19,2007,5302192007,0,1,Se'i (Sei),Kolbano,Kabupaten,Timor Tengah Selatan,Nusa Tenggara Timur (NTT),256
+51346,69155,35.26.10.2011,35,26,10,2011,3526102011,0,1,Manoan (Mano'an),Kokop,Kabupaten,Bangkalan,Jawa Timur,256
+50983,85576,53.02.20.2001,53,02,20,2001,5302202001,0,1,Kot'olin (Kot Olin),Kot Olin,Kabupaten,Timor Tengah Selatan,Nusa Tenggara Timur (NTT),254
+50986,85576,53.02.20.2008,53,02,20,2008,5302202008,0,1,O'obibi (O Obibi),Kot Olin,Kabupaten,Timor Tengah Selatan,Nusa Tenggara Timur (NTT),254
+51568,23771,11.01.02.2018,11,01,02,2018,1101022018,0,1,Pasi Kuala Ba'u (Pasi Kuala Bau),Kluet Utara,Kabupaten,Aceh Selatan,Aceh (NAD),257
+52208,85575,53.02.10.2004,53,02,10,2004,5302102004,0,1,Belle,"KI'E (Kie, Ki'e)",Kabupaten,Timor Tengah Selatan,Nusa Tenggara Timur (NTT),261
+52209,85575,53.02.10.2006,53,02,10,2006,5302102006,0,1,Boti,"KI'E (Kie, Ki'e)",Kabupaten,Timor Tengah Selatan,Nusa Tenggara Timur (NTT),261
+52210,85575,53.02.10.2011,53,02,10,2011,5302102011,0,1,Eno Napi (Enonapi),"KI'E (Kie, Ki'e)",Kabupaten,Timor Tengah Selatan,Nusa Tenggara Timur (NTT),261
+52211,85575,53.02.10.2002,53,02,10,2002,5302102002,0,1,Falas (Fallas),"KI'E (Kie, Ki'e)",Kabupaten,Timor Tengah Selatan,Nusa Tenggara Timur (NTT),261
+52212,85575,53.02.10.2012,53,02,10,2012,5302102012,0,1,Fatukusi,"KI'E (Kie, Ki'e)",Kabupaten,Timor Tengah Selatan,Nusa Tenggara Timur (NTT),261
+52213,85575,53.02.10.2007,53,02,10,2007,5302102007,0,1,Fatuulan,"KI'E (Kie, Ki'e)",Kabupaten,Timor Tengah Selatan,Nusa Tenggara Timur (NTT),261
+52214,85575,53.02.10.2013,53,02,10,2013,5302102013,0,1,Naile'u,"KI'E (Kie, Ki'e)",Kabupaten,Timor Tengah Selatan,Nusa Tenggara Timur (NTT),261
+52215,85575,53.02.10.2005,53,02,10,2005,5302102005,0,1,Napi,"KI'E (Kie, Ki'e)",Kabupaten,Timor Tengah Selatan,Nusa Tenggara Timur (NTT),261
+52216,85575,53.02.10.2010,53,02,10,2010,5302102010,0,1,Nekmese,"KI'E (Kie, Ki'e)",Kabupaten,Timor Tengah Selatan,Nusa Tenggara Timur (NTT),261
+52217,85575,53.02.10.2003,53,02,10,2003,5302102003,0,1,Oenai,"KI'E (Kie, Ki'e)",Kabupaten,Timor Tengah Selatan,Nusa Tenggara Timur (NTT),261
+52218,85575,53.02.10.2009,53,02,10,2009,5302102009,0,1,Oinlasi,"KI'E (Kie, Ki'e)",Kabupaten,Timor Tengah Selatan,Nusa Tenggara Timur (NTT),261
+52219,85575,53.02.10.2001,53,02,10,2001,5302102001,0,1,Pilli (Pili),"KI'E (Kie, Ki'e)",Kabupaten,Timor Tengah Selatan,Nusa Tenggara Timur (NTT),261
+52220,85575,53.02.10.2008,53,02,10,2008,5302102008,0,1,Tesiayofanu (Tesi Ayofanu),"KI'E (Kie, Ki'e)",Kabupaten,Timor Tengah Selatan,Nusa Tenggara Timur (NTT),261
+51778,69153,35.26.07.2022,35,26,07,2022,3526072022,0,1,Kool (Ko'ol),Klampis,Kabupaten,Bangkalan,Jawa Timur,258
+51787,69153,35.26.07.2007,35,26,07,2007,3526072007,0,1,Raas (Ra'as),Klampis,Kabupaten,Bangkalan,Jawa Timur,258
+52464,91852,73.26.15.1003,73,26,15,1003,7326151003,1,0,Ba'tan,Kesu,Kabupaten,Toraja Utara,Sulawesi Selatan,262
+52467,91852,73.26.15.2006,73,26,15,2006,7326152006,0,1,Sangbua',Kesu,Kabupaten,Toraja Utara,Sulawesi Selatan,262
+53196,84261,52.05.02.2002,52,05,02,2002,5205022002,0,1,Ta'a,Kempo,Kabupaten,Dompu,Nusa Tenggara Barat (NTB),265
+56414,68362,35.12.10.2010,35,12,10,2010,3512102010,0,1,Pokaan (Poka'an),Kapongan,Kabupaten,Situbondo,Jawa Timur,282
+56466,91848,73.26.20.2001,73,26,20,2001,7326202001,0,1,Benteng Ka'do (Benteng Kado),Kapala Pitu (Kapalla Pitu),Kabupaten,Toraja Utara,Sulawesi Selatan,282
+56471,91848,73.26.20.2002,73,26,20,2002,7326202002,0,1,Sikuku',Kapala Pitu (Kapalla Pitu),Kabupaten,Toraja Utara,Sulawesi Selatan,282
+57014,91560,76.02.04.2017,76,02,04,2017,7602042017,0,1,Lasa' (Lasa),Kalumpang,Kabupaten,Mamuju,Sulawesi Barat,285
+57017,91560,76.02.04.2011,76,02,04,2011,7602042011,0,1,Polio (Ba'san),Kalumpang,Kabupaten,Mamuju,Sulawesi Barat,285
+57221,78756,61.06.18.2013,61,06,18,2013,6106182013,0,1,Tapang Da'an (Tapang Daan),Kalis,Kabupaten,Kapuas Hulu,Kalimantan Barat,286
+57523,69471,35.29.02.2005,35,29,02,2005,3529022005,0,1,Kalimook (Kalimo'ok),Kalianget,Kabupaten,Sumenep,Jawa Timur,287
+59039,79357,61.08.11.2003,61,08,11,2003,6108112003,0,1,Nyi'in (Nyiin),Jelimpo,Kabupaten,Landak,Kalimantan Barat,295
+60382,85671,53.03.08.2026,53,03,08,2026,5303082026,0,1,Fatu'ana,Insana,Kabupaten,Timor Tengah Utara,Nusa Tenggara Timur (NTT),301
+60881,24443,11.03.14.2013,11,03,14,2013,1103142013,0,1,Buket Pu'uk (Buket Puuk),Idi Tunong,Kabupaten,Aceh Timur,Aceh (NAD),304
+60936,24442,11.03.03.2009,11,03,03,2009,1103032009,0,1,Meunasah Pu'uk,Idi Rayeuk,Kabupaten,Aceh Timur,Aceh (NAD),304
+60954,22878,12.14.35.2008,12,14,35,2008,1214352008,0,1,Hilisalo'o,Idanotae,Kabupaten,Nias Selatan,Sumatera Utara,304
+60965,22872,12.04.10.2027,12,04,10,2027,1204102027,0,1,Bobozioli Loloana'a (Bobozioli Loloanaa),Idanogawo (Idano Gawo),Kabupaten,Nias,Sumatera Utara,304
+60967,22872,12.04.10.2035,12,04,10,2035,1204102035,0,1,Hili'adulo,Idanogawo (Idano Gawo),Kabupaten,Nias,Sumatera Utara,304
+60968,22872,12.04.10.2034,12,04,10,2034,1204102034,0,1,Hiligogowaya Maliwa'a,Idanogawo (Idano Gawo),Kabupaten,Nias,Sumatera Utara,304
+60972,22872,12.04.10.2018,12,04,10,2018,1204102018,0,1,Hilina'a Tafuo (Hilinaa Tafuo),Idanogawo (Idano Gawo),Kabupaten,Nias,Sumatera Utara,304
+60976,22872,12.04.10.2024,12,04,10,2024,1204102024,0,1,Maliwa'a (Maliwaa),Idanogawo (Idano Gawo),Kabupaten,Nias,Sumatera Utara,304
+60981,22872,12.04.10.2023,12,04,10,2023,1204102023,0,1,Saiwahili Hili'adulo (Saiwahili Hiliadulo),Idanogawo (Idano Gawo),Kabupaten,Nias,Sumatera Utara,304
+60984,22872,12.04.10.2006,12,04,10,2006,1204102006,0,1,Tetegeona'ai (Tete Goenaai),Idanogawo (Idano Gawo),Kabupaten,Nias,Sumatera Utara,304
+60986,22872,12.04.10.2033,12,04,10,2033,1204102033,0,1,Tiga Serangkai Maliwa'a,Idanogawo (Idano Gawo),Kabupaten,Nias,Sumatera Utara,304
+61127,22867,12.14.20.2005,12,14,20,2005,1214202005,0,1,Sifaoroasi (Sifaoro'asi),Huruna,Kabupaten,Nias Selatan,Sumatera Utara,305
+61191,38374,17.03.19.2010,17,03,19,2010,1703192010,0,1,Air Ba'us I (Air Baus I),Hulu Palik,Kabupaten,Bengkulu Utara,Bengkulu,305
+61192,38374,17.03.19.2011,17,03,19,2011,1703192011,0,1,Air Ba'us II (Air Baus II),Hulu Palik,Kabupaten,Bengkulu Utara,Bengkulu,305
+61269,84271,52.05.03.2004,52,05,03,2004,5205032004,0,1,Adu,Hu'u,Kabupaten,Dompu,Nusa Tenggara Barat (NTB),306
+61270,84271,52.05.03.2005,52,05,03,2005,5205032005,0,1,Cempi Jaya,Hu'u,Kabupaten,Dompu,Nusa Tenggara Barat (NTB),306
+61271,84271,52.05.03.2002,52,05,03,2002,5205032002,0,1,Daha,Hu'u,Kabupaten,Dompu,Nusa Tenggara Barat (NTB),306
+61272,84271,52.05.03.2003,52,05,03,2003,5205032003,0,1,Hu'u,Hu'u,Kabupaten,Dompu,Nusa Tenggara Barat (NTB),306
+61273,84271,52.05.03.2007,52,05,03,2007,5205032007,0,1,Jala,Hu'u,Kabupaten,Dompu,Nusa Tenggara Barat (NTB),306
+61274,84271,52.05.03.2006,52,05,03,2006,5205032006,0,1,Merada,Hu'u,Kabupaten,Dompu,Nusa Tenggara Barat (NTB),306
+61275,84271,52.05.03.2001,52,05,03,2001,5205032001,0,1,Rasa Bou,Hu'u,Kabupaten,Dompu,Nusa Tenggara Barat (NTB),306
+61276,84271,52.05.03.2008,52,05,03,2008,5205032008,0,1,Sawe,Hu'u,Kabupaten,Dompu,Nusa Tenggara Barat (NTB),306
+61405,22864,12.14.23.2007,12,14,23,2007,1214232007,0,1,Anaoma,Hilisalawa'ahe (Hilisalawaahe),Kabupaten,Nias Selatan,Sumatera Utara,307
+61406,22864,12.14.23.2008,12,14,23,2008,1214232008,0,1,Berua Siwalawa,Hilisalawa'ahe (Hilisalawaahe),Kabupaten,Nias Selatan,Sumatera Utara,307
+61407,22864,12.14.23.2011,12,14,23,2011,1214232011,0,1,Bukit Burasi (Bukitburasi),Hilisalawa'ahe (Hilisalawaahe),Kabupaten,Nias Selatan,Sumatera Utara,307
+61408,22864,12.14.23.2002,12,14,23,2002,1214232002,0,1,Hilidulo,Hilisalawa'ahe (Hilisalawaahe),Kabupaten,Nias Selatan,Sumatera Utara,307
+61409,22864,12.14.23.2010,12,14,23,2010,1214232010,0,1,Hiligodu,Hilisalawa'ahe (Hilisalawaahe),Kabupaten,Nias Selatan,Sumatera Utara,307
+61410,22864,12.14.23.2001,12,14,23,2001,1214232001,0,1,Maluo,Hilisalawa'ahe (Hilisalawaahe),Kabupaten,Nias Selatan,Sumatera Utara,307
+61411,22864,12.14.23.2005,12,14,23,2005,1214232005,0,1,Manawadano,Hilisalawa'ahe (Hilisalawaahe),Kabupaten,Nias Selatan,Sumatera Utara,307
+61412,22864,12.14.23.2004,12,14,23,2004,1214232004,0,1,Sisobahili Siwalawa,Hilisalawa'ahe (Hilisalawaahe),Kabupaten,Nias Selatan,Sumatera Utara,307
+61413,22864,12.14.23.2006,12,14,23,2006,1214232006,0,1,Talio,Hilisalawa'ahe (Hilisalawaahe),Kabupaten,Nias Selatan,Sumatera Utara,307
+61414,22864,12.14.23.2003,12,14,23,2003,1214232003,0,1,Umbuasi (Umbu'asi),Hilisalawa'ahe (Hilisalawaahe),Kabupaten,Nias Selatan,Sumatera Utara,307
+61415,22864,12.14.23.2009,12,14,23,2009,1214232009,0,1,Umbuasi Barat,Hilisalawa'ahe (Hilisalawaahe),Kabupaten,Nias Selatan,Sumatera Utara,307
+61426,22864,12.14.11.2003,12,14,11,2003,1214112003,0,1,Bawosalo'o Dao-dao,Hilimegai,Kabupaten,Nias Selatan,Sumatera Utara,307
+61435,22864,12.14.11.2004,12,14,11,2004,1214112004,0,1,Tuho'owo (Tuho Owo),Hilimegai,Kabupaten,Nias Selatan,Sumatera Utara,307
+61440,22854,12.04.05.2028,12,04,05,2028,1204052028,0,1,Lasara Tanose'o,Hiliduho,Kabupaten,Nias,Sumatera Utara,307
+61441,22854,12.04.05.2034,12,04,05,2034,1204052034,0,1,Mazingo Tanose'o (Tanoseo),Hiliduho,Kabupaten,Nias,Sumatera Utara,307
+61442,22854,12.04.05.2023,12,04,05,2023,1204052023,0,1,Ombolata Salo'o (Ombolalasalo'o),Hiliduho,Kabupaten,Nias,Sumatera Utara,307
+61907,22851,12.78.03.2007,12,78,03,2007,1278032007,0,1,Gawu-Gawu Bo'uso (Gawu Gawu Bouso / Bauso),Gunungsitoli Utara,Kota,Gunungsitoli,Sumatera Utara,309
+61912,22851,12.78.03.2002,12,78,03,2002,1278032002,0,1,Lolo'ana'a Lolomoyo (Loloanaa),Gunungsitoli Utara,Kota,Gunungsitoli,Sumatera Utara,309
+61928,22851,12.78.02.2009,12,78,02,2009,1278022009,0,1,Sihare'o I Tabaloho (Sihareo I Tabaloho),Gunungsitoli Selatan,Kota,Gunungsitoli,Sumatera Utara,309
+61929,22851,12.78.02.2013,12,78,02,2013,1278022013,0,1,Sisobahili II Tanose'o (Tanoseo),Gunungsitoli Selatan,Kota,Gunungsitoli,Sumatera Utara,309
+61931,22870,12.78.04.2018,12,78,04,2018,1278042018,0,1,Awa'ai (Awaai),Gunungsitoli Idanoi,Kota,Gunungsitoli,Sumatera Utara,309
+61945,22870,12.78.04.2015,12,78,04,2015,1278042015,0,1,Lolo'ana'a Idanoi (Loloanaa Idanoi),Gunungsitoli Idanoi,Kota,Gunungsitoli,Sumatera Utara,309
+61963,22811,12.78.06.2006,12,78,06,2006,1278062006,0,1,Sihare'o Siwahili (Sihareo Siwahili),Gunungsitoli Barat,Kota,Gunungsitoli,Sumatera Utara,309
+61966,22851,12.78.05.2006,12,78,05,2006,1278052006,0,1,Fadoro Hilimbowo,Gunungsitoli Alo'oa,Kota,Gunungsitoli,Sumatera Utara,309
+61967,22851,12.78.05.2007,12,78,05,2007,1278052007,0,1,Fadoro You,Gunungsitoli Alo'oa,Kota,Gunungsitoli,Sumatera Utara,309
+61968,22851,12.78.05.2003,12,78,05,2003,1278052003,0,1,Iraonolase (Irano Lase / Iraono Lase),Gunungsitoli Alo'oa,Kota,Gunungsitoli,Sumatera Utara,309
+61969,22851,12.78.05.2008,12,78,05,2008,1278052008,0,1,Lololawa,Gunungsitoli Alo'oa,Kota,Gunungsitoli,Sumatera Utara,309
+61970,22851,12.78.05.2001,12,78,05,2001,1278052001,0,1,Nazalou Alo'oa,Gunungsitoli Alo'oa,Kota,Gunungsitoli,Sumatera Utara,309
+61971,22851,12.78.05.2009,12,78,05,2009,1278052009,0,1,Nazalou Lolowua,Gunungsitoli Alo'oa,Kota,Gunungsitoli,Sumatera Utara,309
+61972,22851,12.78.05.2002,12,78,05,2002,1278052002,0,1,Niko'otano Dao,Gunungsitoli Alo'oa,Kota,Gunungsitoli,Sumatera Utara,309
+61973,22851,12.78.05.2004,12,78,05,2004,1278052004,0,1,Orahili Tanose'o,Gunungsitoli Alo'oa,Kota,Gunungsitoli,Sumatera Utara,309
+61974,22851,12.78.05.2005,12,78,05,2005,1278052005,0,1,Tarakhaini,Gunungsitoli Alo'oa,Kota,Gunungsitoli,Sumatera Utara,309
+61982,22810,12.78.01.2008,12,78,01,2008,1278012008,0,1,Hilina'a (Hilina A),Gunungsitoli,Kota,Gunungsitoli,Sumatera Utara,309
+61986,22810,12.78.01.2011,12,78,01,2011,1278012011,0,1,Lolowonu Niko'otano (Lelewonu Nikootano),Gunungsitoli,Kota,Gunungsitoli,Sumatera Utara,309
+61990,22810,12.78.01.2016,12,78,01,2016,1278012016,0,1,Mo'awo (Moawo),Gunungsitoli,Kota,Gunungsitoli,Sumatera Utara,309
+63404,22871,12.04.06.2055,12,04,06,2055,1204062055,0,1,Somi Botogo'o,Gido,Kabupaten,Nias,Sumatera Utara,317
+63405,22871,12.04.06.2052,12,04,06,2052,1204062052,0,1,Tulumbaho Salo'o,Gido,Kabupaten,Nias,Sumatera Utara,317
+62985,22873,12.14.02.2007,12,14,02,2007,1214022007,0,1,Hiliana'a Gomo,Gomo,Kabupaten,Nias Selatan,Sumatera Utara,314
+62990,22873,12.14.02.2024,12,14,02,2024,1214022024,0,1,Sifaoro'asi Gomo,Gomo,Kabupaten,Nias Selatan,Sumatera Utara,314
+62992,22873,12.14.02.2035,12,14,02,2035,1214022035,0,1,Tanoniko'o,Gomo,Kabupaten,Nias Selatan,Sumatera Utara,314
+63396,22871,12.04.06.2020,12,04,06,2020,1204062020,0,1,Loloana'a Gido (Loloanaa Gido),Gido,Kabupaten,Nias,Sumatera Utara,316
+63398,22871,12.04.06.2053,12,04,06,2053,1204062053,0,1,Nifolo'o Lauru,Gido,Kabupaten,Nias,Sumatera Utara,316
+64114,69472,35.29.19.2010,35,29,19,2010,3529192010,0,1,Palo'lo'an (Palokloan / Paloloan),Gapura,Kabupaten,Sumenep,Jawa Timur,320
+64434,69173,35.26.18.2010,35,26,18,2010,3526182010,0,1,Paka'an Dajah (Pakaan Daya),Galis,Kabupaten,Bangkalan,Jawa Timur,322
+64435,69173,35.26.18.2011,35,26,18,2011,3526182011,0,1,Paka'an Laok,Galis,Kabupaten,Bangkalan,Jawa Timur,322
+64495,92255,73.05.09.2009,73,05,09,2009,7305092009,0,1,Pa'lalakkang,Galesong,Kabupaten,Takalar,Sulawesi Selatan,322
+64496,92255,73.05.09.2008,73,05,09,2008,7305092008,0,1,Pa'rasangang Beru,Galesong,Kabupaten,Takalar,Sulawesi Selatan,322
+64829,85582,53.02.28.2007,53,02,28,2007,5302282007,0,1,Besle'u,Fautmolo,Kabupaten,Timor Tengah Selatan,Nusa Tenggara Timur (NTT),324
+64983,92415,73.03.03.2005,73,03,03,2005,7303032005,0,1,Pa'bentengan,Eremerasa,Kabupaten,Bantaeng,Sulawesi Selatan,324
+64984,92415,73.03.03.2007,73,03,03,2007,7303032007,0,1,Pa'bumbungang,Eremerasa,Kabupaten,Bantaeng,Sulawesi Selatan,324
+64635,67134,35.75.01.1009,35,75,01,1009,3575011009,1,0,Gadingrejo'an (Gadingrejo),Gadingrejo,Kota,Pasuruan,Jawa Timur,323
+65645,61155,35.25.01.2003,35,25,01,2003,3525012003,0,1,Gedongkedo'an (Gedongkedoan),Dukun,Kabupaten,Gresik,Jawa Timur,328
+66447,86371,53.08.15.2014,53,08,15,2014,5308152014,0,1,Jeo Du'a,Detukeli,Kabupaten,Ende,Nusa Tenggara Timur (NTT),332
+66574,91822,73.26.12.2007,73,26,12,2007,7326122007,0,1,Buntu Tagari,Dende' Piongan Napo,Kabupaten,Toraja Utara,Sulawesi Selatan,332
+66575,91822,73.26.12.2002,73,26,12,2002,7326122002,0,1,Dende',Dende' Piongan Napo,Kabupaten,Toraja Utara,Sulawesi Selatan,332
+66576,91822,73.26.12.2006,73,26,12,2006,7326122006,0,1,Kapolang,Dende' Piongan Napo,Kabupaten,Toraja Utara,Sulawesi Selatan,332
+66577,91822,73.26.12.2001,73,26,12,2001,7326122001,0,1,Madong (Ma Dong),Dende' Piongan Napo,Kabupaten,Toraja Utara,Sulawesi Selatan,332
+66578,91822,73.26.12.2005,73,26,12,2005,7326122005,0,1,Paku,Dende' Piongan Napo,Kabupaten,Toraja Utara,Sulawesi Selatan,332
+66579,91822,73.26.12.2008,73,26,12,2008,7326122008,0,1,Parinding,Dende' Piongan Napo,Kabupaten,Toraja Utara,Sulawesi Selatan,332
+66580,91822,73.26.12.1004,73,26,12,1004,7326121004,1,0,Pasang,Dende' Piongan Napo,Kabupaten,Toraja Utara,Sulawesi Selatan,332
+66581,91822,73.26.12.2003,73,26,12,2003,7326122003,0,1,Piongan,Dende' Piongan Napo,Kabupaten,Toraja Utara,Sulawesi Selatan,332
+65933,84162,52.06.08.2014,52,06,08,2014,5206082014,0,1,Ndano Na'e,Donggo,Kabupaten,Bima,Nusa Tenggara Barat (NTB),329
+65934,84162,52.06.08.2007,52,06,08,2007,5206082007,0,1,O'o,Donggo,Kabupaten,Bima,Nusa Tenggara Barat (NTB),329
+65965,84219,52.05.01.2007,52,05,01,2007,5205012007,0,1,O'o,Dompu,Kabupaten,Dompu,Nusa Tenggara Barat (NTB),329
+67441,94356,72.03.06.2005,72,03,06,2005,7203062005,0,1,Pani'i (Panii),Dampelas,Kabupaten,Donggala,Sulawesi Tengah,337
+69992,90524,73.09.10.2006,73,09,10,2006,7309102006,0,1,Baji Pa'mai,Cenrana,Kabupaten,Maros,Sulawesi Selatan,349
+70459,86692,53.13.07.2020,53,13,07,2020,5313072020,0,1,Atu Wa'lupang,Buyasuri,Kabupaten,Lembata,Nusa Tenggara Timur (NTT),352
+70649,91847,73.26.13.2006,73,26,13,2006,7326132006,0,1,Pulu' Pulu',Buntu Pepasan,Kabupaten,Toraja Utara,Sulawesi Selatan,353
+70651,91847,73.26.13.2009,73,26,13,2009,7326132009,0,1,Roroan Barra'-Barra',Buntu Pepasan,Kabupaten,Toraja Utara,Sulawesi Selatan,353
+70672,91841,73.26.05.2004,73,26,05,2004,7326052004,0,1,Issong Kalua',Buntao,Kabupaten,Toraja Utara,Sulawesi Selatan,353
+70673,91841,73.26.05.2003,73,26,05,2003,7326052003,0,1,Misa'ba'bana (Misa Ba'Bana),Buntao,Kabupaten,Toraja Utara,Sulawesi Selatan,353
+70674,91841,73.26.05.2002,73,26,05,2002,7326052002,0,1,Rindingkila',Buntao,Kabupaten,Toraja Utara,Sulawesi Selatan,353
+70677,91841,73.26.05.1005,73,26,05,1005,7326051005,1,0,Tullang' Sura (Tallang Sura'),Buntao,Kabupaten,Toraja Utara,Sulawesi Selatan,353
+70863,94979,72.06.06.2044,72,06,06,2044,7206062044,0,1,Po'o,Bungku Selatan,Kabupaten,Morowali,Sulawesi Tengah,354
+70882,94981,72.06.15.2010,72,06,15,2010,7206152010,0,1,Were'a,Bungku Pesisir,Kabupaten,Morowali,Sulawesi Tengah,354
+70939,92177,73.06.09.1010,73,06,09,1010,7306091010,1,0,Je'nebatu (Jenebatu),Bungaya,Kabupaten,Gowa,Sulawesi Selatan,354
+71727,67129,35.75.03.1003,35,75,03,1003,3575031003,1,0,Tapa'an (Tapaan),Bugul Kidul,Kota,Pasuruan,Jawa Timur,358
+72050,91993,73.17.05.2009,73,17,05,2009,7317052009,0,1,Padang Ma'bud (Padang Ma Bud),Bua Ponrang (Bupon),Kabupaten,Luwu,Sulawesi Selatan,360
+72320,22815,12.04.21.2011,12,04,21,2011,1204212011,0,1,Loloana'a (Lololana'a),Botomuzoi,Kabupaten,Nias,Sumatera Utara,361
+72660,91872,73.18.03.2004,73,18,03,2004,7318032004,0,1,Mappa',Bonggakaradeng,Kabupaten,Tana Toraja,Sulawesi Selatan,363
+72718,93673,74.10.03.2015,74,10,03,2015,7410032015,0,1,Ngapa'ea,Bonegunu,Kabupaten,Buton Utara,Sulawesi Tenggara,363
+72467,92154,73.06.16.2004,73,06,16,2004,7306162004,0,1,Pa'bundukang,Bontonompo Selatan,Kabupaten,Gowa,Sulawesi Selatan,362
+72521,92176,73.06.15.2001,73,06,15,2001,7306152001,0,1,Julumate'ne,Bontolempangang,Kabupaten,Gowa,Sulawesi Selatan,362
+72523,92176,73.06.15.2005,73,06,15,2005,7306152005,0,1,Pa'ladingang,Bontolempangang,Kabupaten,Gowa,Sulawesi Selatan,362
+73730,91896,73.18.02.2017,73,18,02,2017,7318022017,0,1,Kandua',Bittuang,Kabupaten,Tana Toraja,Sulawesi Selatan,368
+73732,91896,73.18.02.2009,73,18,02,2009,7318022009,0,1,Le'tek,Bittuang,Kabupaten,Tana Toraja,Sulawesi Selatan,368
+73733,91896,73.18.02.2004,73,18,02,2004,7318022004,0,1,Pali',Bittuang,Kabupaten,Tana Toraja,Sulawesi Selatan,368
+73738,91896,73.18.02.2002,73,18,02,2002,7318022002,0,1,Se'seng,Bittuang,Kabupaten,Tana Toraja,Sulawesi Selatan,368
+74102,96245,75.01.20.2007,75,01,20,2007,7501202007,0,1,Botu Boluo (Botubolu'o / Botuboluo),Biluhu,Kabupaten,Gorontalo,Gorontalo,370
+74116,96234,75.01.23.2004,75,01,23,2004,7501232004,0,1,Taula'a (Taulaa),Bilato,Kabupaten,Gorontalo,Gorontalo,370
+74123,95755,71.01.32.2005,71,01,32,2005,7101322005,0,1,Kolinganga'an,Bilalang,Kabupaten,Bolaang Mongondow,Sulawesi Utara,370
+73526,69174,35.26.15.2018,35,26,15,2018,3526152018,0,1,Kojolan (Ko'olan),Blega,Kabupaten,Bangkalan,Jawa Timur,367
+74255,85684,53.03.22.2004,53,03,22,2004,5303222004,0,1,T'Eba Timur (Teba Timur),Biboki Tan Pah,Kabupaten,Timor Tengah Utara,Nusa Tenggara Timur (NTT),371
+73875,95763,71.08.02.2013,71,08,02,2013,7108022013,0,1,Voa'a (Voa A),Bintauna,Kabupaten,Bolaang Mongondow Utara,Sulawesi Utara,369
+75615,22876,12.04.11.2026,12,04,11,2026,1204112026,0,1,Balale Toba'a,Bawolato,Kabupaten,Nias,Sumatera Utara,378
+75631,22876,12.04.11.2020,12,04,11,2020,1204112020,0,1,Si'ofaewali Selatan,Bawolato,Kabupaten,Nias,Sumatera Utara,378
+75806,69453,35.29.17.2013,35,29,17,2013,3529172013,0,1,Bulla'an (Bulaan / Bullaan),Batuputih,Kabupaten,Sumenep,Jawa Timur,379
+75925,96244,75.01.05.2012,75,01,05,2012,7501052012,0,1,Olimoo'o (Olimoo),Batudaa Pantai,Kabupaten,Gorontalo,Gorontalo,379
+76532,78766,61.06.12.2010,61,06,12,2010,6106122010,0,1,Labian Ira'ang,Batang Lupar,Kabupaten,Kapuas Hulu,Kalimantan Barat,382
+76845,91992,73.17.22.2012,73,17,22,2012,7317222012,0,1,Ta'ba,Basse Sangtempe Utara,Kabupaten,Luwu,Sulawesi Selatan,384
+76860,91990,73.17.01.2022,73,17,01,2022,7317012022,0,1,To'long (To Long),Basse Sangtempe (Bassesang Tempe / Bastem),Kabupaten,Luwu,Sulawesi Selatan,384
+78279,91853,73.26.17.2001,73,26,17,2001,7326172001,0,1,To'yasa Akung,Bangkelekila,Kabupaten,Toraja Utara,Sulawesi Selatan,391
+79041,91855,73.26.10.2006,73,26,10,2006,7326102006,0,1,Awa' Kawasik,Balusu,Kabupaten,Toraja Utara,Sulawesi Selatan,395
+79051,91855,73.26.10.2001,73,26,10,2001,7326102001,0,1,Palangi',Balusu,Kabupaten,Toraja Utara,Sulawesi Selatan,395
+79365,94773,72.01.06.2015,72,01,06,2015,7201062015,0,1,Ra'u,Balantak,Kabupaten,Banggai,Sulawesi Tengah,396
+79665,92152,73.06.02.2007,73,06,02,2007,7306022007,0,1,Pa'bentengang,Bajeng,Kabupaten,Gowa,Sulawesi Selatan,398
+80504,92776,73.08.16.2012,73,08,16,2012,7308162012,0,1,Bulumpare'e (Bulumparee),Awangpone,Kabupaten,Bone,Sulawesi Selatan,402
+81109,70671,63.03.11.2002,63,03,11,2002,6303112002,0,1,Kala'an (Kalaan),Aranio,Kabupaten,Banjar,Kalimantan Selatan,405
+81110,70671,63.03.11.2012,63,03,11,2012,6303112012,0,1,Pa'au (Paau),Aranio,Kabupaten,Banjar,Kalimantan Selatan,405
+81943,85373,53.01.12.2005,53,01,12,2005,5301122005,0,1,Oh'aem (Ohaem),Amfoang Selatan,Kabupaten,Kupang,Nusa Tenggara Timur (NTT),409
+81944,85373,53.01.12.2011,53,01,12,2011,5301122011,0,1,Oh'aem II (Ohaem Dua),Amfoang Selatan,Kabupaten,Kupang,Nusa Tenggara Timur (NTT),409
+82215,85573,53.02.08.2009,53,02,08,2009,5302082009,0,1,To'i (Toi),Amanatun Selatan,Kabupaten,Timor Tengah Selatan,Nusa Tenggara Timur (NTT),411
+82337,85851,53.05.02.2023,53,05,02,2023,5305022023,0,1,Ala'ang (Alaang),Alor Barat Laut,Kabupaten,Alor,Nusa Tenggara Timur (NTT),411
+82349,85851,53.05.02.2022,53,05,02,2022,5305022022,0,1,O'a Mate (Oa Mate),Alor Barat Laut,Kabupaten,Alor,Nusa Tenggara Timur (NTT),411
+82138,85572,53.02.04.2012,53,02,04,2012,5302042012,0,1,Oe'Ekam (Oe Ekam),Amanuban Timur,Kabupaten,Timor Tengah Selatan,Nusa Tenggara Timur (NTT),410
+82151,85571,53.02.05.2003,53,02,05,2003,5302052003,0,1,Oe'ekam (Oeekam),Amanuban Tengah,Kabupaten,Timor Tengah Selatan,Nusa Tenggara Timur (NTT),410
+82181,22866,12.14.07.2024,12,14,07,2024,1214072024,0,1,Hilisalo'o,Amandraya,Kabupaten,Nias Selatan,Sumatera Utara,410
+82187,22866,12.14.07.2004,12,14,07,2004,1214072004,0,1,Sifaoroasi (Sifaoro'asi),Amandraya,Kabupaten,Nias Selatan,Sumatera Utara,410
+82188,22866,12.14.07.2031,12,14,07,2031,1214072031,0,1,Sinar Ino'o,Amandraya,Kabupaten,Nias Selatan,Sumatera Utara,410
+82436,22814,12.24.06.2006,12,24,06,2006,1224062006,0,1,Hilina'a (Hilina A),Alasa Talumuzoi,Kabupaten,Nias Utara,Sumatera Utara,412
+82449,22861,12.24.07.2013,12,24,07,2013,1224072013,0,1,Loloana'a,Alasa,Kabupaten,Nias Utara,Sumatera Utara,412
+82614,98264,92.10.22.2010,92,10,22,2010,9210222010,0,1,Way 'U' (Way U),Aitinyo Tengah,Kabupaten,Maybrat,Papua Barat Daya,413
+82615,98264,92.10.22.2009,92,10,22,2009,9210222009,0,1,Wrait 'U' (Wrait U),Aitinyo Tengah,Kabupaten,Maybrat,Papua Barat Daya,413
+83180,98970,94.05.07.2004,94,05,07,2004,9405072004,0,1,Gut'yenggenak,Agandugume,Kabupaten,Puncak,Papua Tengah,415
+83181,98970,94.05.07.2006,94,05,07,2006,9405072006,0,1,Ogobak'pelenak,Agandugume,Kabupaten,Puncak,Papua Tengah,415
+83184,22857,12.24.09.2009,12,24,09,2009,1224092009,0,1,Faekhuna'a (Faekhunaa),Afulu,Kabupaten,Nias Utara,Sumatera Utara,415
+83190,22857,12.24.09.2008,12,24,09,2008,1224092008,0,1,Sifaoro'asi (Sifaoroasi),Afulu,Kabupaten,Nias Utara,Sumatera Utara,415
